@@ -22,7 +22,7 @@ repository               : "16nikita/16nikita.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Nikita_Sajai.png"
+  avatar           : "profile.png"
   name             : "Nikita Sajai"
   pronouns         : "she/her"
   bio              : "Committed to protecting our environment with code"
