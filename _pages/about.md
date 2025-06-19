@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my virtual CV"
+title: "Welcome to my virtual CV 🪴🍄🖥️"
 author_profile: true
 redirect_from:
   - /about/
@@ -15,6 +15,7 @@ Moving forward, I will integrate my interests in climate change, research, and b
 Technical Skills:
 ------
 Pipelines: single-cell RNA sequencing analysis, single-nuclei RNA sequencing analysis, bulk-RNA sequencing analysis, ATAC-seq analysis, proteomics data analysis, single-cell spatial transcriptomic analysis
+
 Command-line in Linux (bowtie2, samtools, bedtools), statistical analysis and data visualization in R, machine learning algorithms in Python (XGBOOST)
 
 Interpersonal Skills:
