@@ -231,6 +231,9 @@
         display: flex;
         justify-content: center;
         cursor: pointer;
+        &::after{
+          display: none;
+        }
       }
     }
 
@@ -243,7 +246,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: var(--global-border-color);
+        background: #afdd93;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
