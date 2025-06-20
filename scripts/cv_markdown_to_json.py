@@ -391,12 +391,12 @@ def create_cv_json(md_file, config_file, repo_root, output_file):
 
     # Add talks
     cv_json["presentations"] = parse_talks(os.path.join(repo_root, "_talks"))
-    
+
     # Add teaching
     cv_json["teaching"] = parse_teaching(os.path.join(repo_root, "_teaching"))
 
     # Add portfolio
-    cv_json["projects"] = parse_portfolio(os.path.join(repo_root, "_projects"))
+    cv_json["portfolio"] = parse_portfolio(os.path.join(repo_root, "portfolio"))
 
     # Extract languages and interests from config if available
     if 'languages' in config:
