@@ -48,4 +48,8 @@ $sidebar-screen-min-width   : 1024px;
 
 .author__urls i {
   color: #0c5735 !important;
+
+  html[data-theme='dark'] & {
+    color: #9fe6a0 !important; // a minty green for contrast in dark mode
+  }
 }

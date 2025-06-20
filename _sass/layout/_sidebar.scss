@@ -128,6 +128,9 @@
     margin-top: 10px;
     margin-bottom: 10px;
   }
+  html[data-theme='dark'] & {
+    color: #9fe6a0; // use a lighter green for dark mode
+  }
 }
 .sidebar .author__name {
   font-family: $sans-serif;
