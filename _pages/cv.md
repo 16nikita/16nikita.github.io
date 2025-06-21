@@ -114,8 +114,8 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054
 ---
 
 - **Volunteer**, *Clinic by the Bay* — *Jan 2024–Present*  
-  - Coordinate the food pharmacy program (~100+ hours of service)  
-  - Support uninsured patients through grocery delivery, nutrition education workshops, healthy cooking demos, and brochure design
+  - Volunteer for the food pharmacy program (~100+ hours of service)  
+  - Support uninsured patients through grocery delivery, nutrition education workshops, healthy cooking demos, and educational materials (brochures, handouts)
 
 - **Volunteer**, *Garden for the Environment (San Francisco)* — *Jan 2025–Present*  
   - Contribute to growing and harvesting clean produce for delivery to the Haight-Ashbury Food Bank
