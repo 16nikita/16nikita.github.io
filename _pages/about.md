@@ -17,8 +17,9 @@ Moving forward, I plan to integrate my interests in climate change, research, an
 Technical Skills:
 ------
 
-Pipelines: single-cell RNA-seq, single-nucleus RNA-seq, bulk RNA-seq, ATAC-seq, proteomics, and single-cell spatial transcriptomics
-Tools & Languages: Linux command-line (Bowtie2, Samtools, Bedtools), R (Seurat, statistical analysis and visualization), Python (Scanpy, machine learning with XGBoost)
+**Pipelines:** single-cell RNA-seq, single-nucleus RNA-seq, bulk RNA-seq, ATAC-seq, proteomics, and single-cell spatial transcriptomics
+
+**Tools & Languages:** Linux command-line (Bowtie2, Samtools, Bedtools), R (Seurat, statistical analysis and visualization), Python (Scanpy, machine learning with XGBoost)
 
 Interpersonal Skills:
 ------
