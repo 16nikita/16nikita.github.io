@@ -96,7 +96,7 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054
 - **Poster Presentation**  
   *The Mutagenic Effect of Recombination* — Maize Genetics Meeting, St. Louis, MO, May 2023  
 
-- **Oral Presentation**  
+- **Oral Presentation (Lightning Talk)**  
   *Designing a Healthy Human Liver Gene Panel for 10X Xenium Spatial Transcriptomics* — UCSF Liver Center Annual Symposium, San Francisco, CA, May 2024
 
 ---

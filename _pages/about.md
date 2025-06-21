@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a data scientist in the Bruce Wang Lab at the University of California, San Francisco (UCSF). Here, I specialize in single-cell RNA sequencing pipeline development and deployment, with the aim of understanding heterogeneity and disease progression in both human and mouse liver. I also serve as a collaborator for all labs within the UCSF Liver Center community.
 
-Though my research in the past two years has been in human health, I have amassed a wealth of transferrable technical skills. Living in the beautiful, one-of-a-kind Bay Area has deepened my lifelong fascination with the natural world. I believe the mistreatment of Earth is a root cause for many public health challenges; you cannot address public health without addressing the wellbeing of our planet.
+Though my research in the past two years has been in human health, I have amassed a wealth of transferrable technical skills. Living in the beautiful, one-of-a-kind Bay Area has deepened my lifelong fascination with the natural world. I believe the western world's mistreatment of Earth is a root cause for many public health challenges; you cannot address public health without addressing the wellbeing of our planet.
 
 I graduated summa cum laude from Cornell University in December 2022 with a B.A. in Biological Sciences, concentrating in Computational Biology and a minor in Climate Change. At Cornell, I worked in the Pawlowski Lab on a series of collaborative projects using computational approaches to illuminate the factors controlling meiotic recombination in maize and rice. These efforts were directed toward uncovering recombination hotspots to help crops better harness genetic diversity in the face of growing climate pressures.
 
