@@ -39,7 +39,7 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054
 *Pawlowski Lab, Cornell University* — *Sept 2021–April 2023*  
 - Collaborated with Dr. Wojtek Pawlowski and PhD student Ruth Epstein on multiple projects:  
   - **Project 1:** Tested chromatin openness in maize; developed in Linux and R (lead researcher).  
-  - **Project 2:** Simulated effects of mutant recombination landscapes in maize breeding (*published in PNAS*); built with AlphaSimR in R.  
+  - **Project 2:** Simulated effects of mutant recombination landscapes in maize and rice breeding (*published in PNAS*); built with AlphaSimR in R.  
   - **Project 3:** Honors thesis—used machine learning to assess InDel generation potential of recombination; developed in Linux, R, and Python (lead researcher).
 
 **Summer Research Intern (REU)**  
@@ -83,7 +83,7 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054
 ## Publications  
 ---
 
-- *Epstein R, Sajai N*, et al. (2024). "Mutant Recombination Landscapes in Maize Simulations." *Proceedings of the National Academy of Sciences* (PNAS). (Accepted)
+- *Epstein R, Sajai N*, M. Zelkowski, A. Zhou, K.R. Robbins, & W.P. Pawlowski. (2023). "Exploring impact of recombination landscapes on breeding outcomes." *Proceedings of the National Academy of Sciences* (PNAS). 120 (14) e2205785119, https://doi.org/10.1073/pnas.2205785119 (2023).
 
 ---
 
