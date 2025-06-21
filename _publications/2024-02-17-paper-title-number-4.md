@@ -6,7 +6,7 @@ permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Developed a feature-based machine learning model to predict crossover hotspot occurrence in maize using chromatin and genomic features.'
 date: 2022-12-16
 venue: 'BTRY 6840 Final Project'
-paperurl: 'http://academicpages.github.io/files/final_paper_btry_6840.pdf'
+paperurl: 'http://16nikita.github.io/files/final_paper_btry_6840.pdf'
 citation: 'Nikita Sajai and Ruth Epstein (2022). &quot;Exploring the predictive power of crossover hotspots in maize.&quot; <i>Final Project</i>.'
 ---
 

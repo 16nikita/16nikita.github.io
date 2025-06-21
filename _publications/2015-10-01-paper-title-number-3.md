@@ -6,7 +6,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Evaluated the potential of capsaicin as an organic pesticide by characterizing its molecular targets in insect pests in Solanaceae crops through protein-ligand docking and sequence conservation analyses.'
 date: 2022-05-15
 venue: 'PLBIO 4000 Final Project'
-paperurl: 'http://academicpages.github.io/files/PLBIO_4000_Final_Project_Manuscript.pdf'
+paperurl: 'http://16nikita.github.io/files/PLBIO_4000_Final_Project_Manuscript.pdf'
 citation: 'Nikita Sajai, Dominic Matras, Alice Gevorgyan. (2022). &quot;Too Hot To Handle: Creating a Spicy Tomato and Assessing the Susceptibility of Common Agricultural Pests to Capsaicin.&quot; <i>Final Project</i>.'
 ---
 
