@@ -1,10 +1,10 @@
 ---
 title: "The Association of Indels with Meiotic Recombination Sites in Maize"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Investigated the mutagenic potential of meiotic recombination in maize by mapping insertions and deletions to various recombination site types (DSBs, COs, hotspots, predicted hotspots)'
-date: 2022-11-13
+date: 2022-12-22
 venue: 'Cornell Biological Honors Thesis'
 paperurl: 'http://16nikita.github.io/files/Sajai_Nikita_honors_thesis.pdf'
 citation: 'Nikita Sajai. (2022). &quot;The Association of Indels with Meiotic Recombination Sites in Maize.&quot; <i>Honors Thesis</i>.'
