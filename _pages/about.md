@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my virtual CV 🪴🍄🖥️"
+title: "Welcome to my virtual CV 👋🏾"
 author_profile: true
 redirect_from:
   - /about/
