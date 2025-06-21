@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant for Perspectives on the Climate Change Challenge"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Cornell Dept. of Biological & Environmental Engineering"
+date: Spring 2021
+location: "Ithaca, NY"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Supported course delivery and organization for a university-wide interdisciplinary seminar on climate change, attended by students across majors. Graded ~50 assignments weekly, participated in faculty meetings, and helped facilitate discussions on the scientific, agricultural, ecological, economic, and policy dimensions of climate change—presented by experts from Cornell and beyond.

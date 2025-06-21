@@ -11,3 +11,8 @@ citation: 'Nikita Sajai, Co-author. (2022). &quot;The Association of Indels with
 ---
 
 The processes that occur during meiotic recombination, from the initiation of DNA double stand breaks (DSBs) to the completion of crossing over (CO) events, have numerous opportunities for inaccuracy. Occurrences of double DSBs (dDSBs) and other missteps during the process could create mutation in the genome. In this study, I assessed the indel generation potential of meiotic recombination in maize by mapping indels of various sizes to different sets of recombination- sites. I found that there is an enrichment of small indels (1-50 bp) at these sites, providing the first strong evidence of mutagenicity of meiotic recombination in plants.
+
+**Tools:**
+* Rscripting for statistical and visual analysis
+* Unix/Linux shell scripting using bedtools and samtools for genomic data processing
+* git version control
