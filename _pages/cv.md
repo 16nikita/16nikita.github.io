@@ -36,7 +36,7 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054
 
 
 **Research Assistant**  
-*Pawlowski Lab, Cornell University* — *Sept 2021–Dec 2022*  
+*Pawlowski Lab, Cornell University* — *Sept 2021–April 2023*  
 - Collaborated with Dr. Wojtek Pawlowski and PhD student Ruth Epstein on multiple projects:  
   - **Project 1:** Tested chromatin openness in maize; developed in Linux and R (lead researcher).  
   - **Project 2:** Simulated effects of mutant recombination landscapes in maize breeding (*published in PNAS*); built with AlphaSimR in R.  
@@ -83,7 +83,7 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054
 ## Publications  
 ---
 
-- *Epstein R, [Your Name]*, et al. (2024). "Mutant Recombination Landscapes in Maize Simulations." *Proceedings of the National Academy of Sciences* (PNAS). (Accepted)
+- *Epstein R, Sajai N*, et al. (2024). "Mutant Recombination Landscapes in Maize Simulations." *Proceedings of the National Academy of Sciences* (PNAS). (Accepted)
 
 ---
 
@@ -113,12 +113,12 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054
 ## Leadership & Service  
 ---
 
-- **Vice President**, Young Researchers Program — *Sept 2019–Present*  
-- **Member**, OASIS: Asian and Pacific Islander LGBTQ+ — *Sept 2021–Present*
-
 - **Volunteer**, *Clinic by the Bay* — *Jan 2024–Present*  
   - Coordinate the food pharmacy program (~100+ hours of service)  
   - Support uninsured patients through grocery delivery, nutrition education workshops, healthy cooking demos, and brochure design
 
 - **Volunteer**, *Garden for the Environment (San Francisco)* — *Jan 2025–Present*  
   - Contribute to growing and harvesting clean produce for delivery to the Haight-Ashbury Food Bank
+
+- **Vice President**, Young Researchers Program — *Sept 2019–Dec 2022*  
+- **Member**, OASIS: Asian and Pacific Islander LGBTQ+ — *Sept 2021–Dec 2022*
