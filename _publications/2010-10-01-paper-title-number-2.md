@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "The Association of Indels with Meiotic Recombination Sites in Maize"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'Investigated the mutagenic potential of meiotic recombination in maize by mapping insertions and deletions to various recombination site types (DSBs, COs, hotspots, predicted hotspots)'
+date: 2022-11-13
+venue: 'Cornell Biological Honors Thesis'
+paperurl: 'http://academicpages.github.io/files/Sajai_Nikita_honors_thesis.pdf'
+citation: 'Nikita Sajai, Co-author. (2022). &quot;The Association of Indels with Meiotic Recombination Sites in Maize.&quot; <i>Honors Thesis</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The processes that occur during meiotic recombination, from the initiation of DNA double stand breaks (DSBs) to the completion of crossing over (CO) events, have numerous opportunities for inaccuracy. Occurrences of double DSBs (dDSBs) and other missteps during the process could create mutation in the genome. In this study, I assessed the indel generation potential of meiotic recombination in maize by mapping indels of various sizes to different sets of recombination- sites. I found that there is an enrichment of small indels (1-50 bp) at these sites, providing the first strong evidence of mutagenicity of meiotic recombination in plants.
