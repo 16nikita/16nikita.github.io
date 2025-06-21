@@ -7,7 +7,7 @@ excerpt: 'Investigated the mutagenic potential of meiotic recombination in maize
 date: 2022-11-13
 venue: 'Cornell Biological Honors Thesis'
 paperurl: 'http://16nikita.github.io/files/Sajai_Nikita_honors_thesis.pdf'
-citation: 'Nikita Sajai, Co-author. (2022). &quot;The Association of Indels with Meiotic Recombination Sites in Maize.&quot; <i>Honors Thesis</i>.'
+citation: 'Nikita Sajai. (2022). &quot;The Association of Indels with Meiotic Recombination Sites in Maize.&quot; <i>Honors Thesis</i>.'
 ---
 
 The processes that occur during meiotic recombination, from the initiation of DNA double stand breaks (DSBs) to the completion of crossing over (CO) events, have numerous opportunities for inaccuracy. Occurrences of double DSBs (dDSBs) and other missteps during the process could create mutation in the genome. In this study, I assessed the indel generation potential of meiotic recombination in maize by mapping indels of various sizes to different sets of recombination- sites. I found that there is an enrichment of small indels (1-50 bp) at these sites, providing the first strong evidence of mutagenicity of meiotic recombination in plants.
