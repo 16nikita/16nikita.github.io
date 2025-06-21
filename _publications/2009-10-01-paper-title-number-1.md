@@ -7,7 +7,7 @@ excerpt: 'Simulated the effects of mutant recombination landscapes in maize and 
 date: 2023-03-27
 venue: 'Proceedings of the National Academy of Sciences.'
 paperurl: 'https://doi.org/10.1073/pnas.2205785119'
-citation: 'R. Epstein, N. Sajai,M. Zelkowski,A. Zhou,K.R. Robbins,& W.P. Pawlowski. (2023). &quot;Exploring impact of recombination landscapes on breeding outcomes.&quot; <i>Proceedings of the National Academy of Sciences</i>. 120 (14).'
+citation: 'R. Epstein, N. Sajai, M. Zelkowski, A. Zhou, K.R. Robbins, & W.P. Pawlowski. (2023). &quot;Exploring impact of recombination landscapes on breeding outcomes.&quot; <i>Proceedings of the National Academy of Sciences</i>. 120 (14).'
 ---
 Plant breeding relies on crossing-over to create novel combinations of alleles needed to confer increased productivity and other desired traits in new varieties. However, crossover (CO) events are rare, as usually only one or two of them occur per chromosome in each generation. In addition, COs are not distributed evenly along chromosomes. In plants with large genomes, which includes most crops, COs are predominantly formed close to chromosome ends, and there are few COs in the large chromosome swaths around centromeres. This situation has created interest in engineering CO landscape to improve breeding efficiency. Methods have been developed to boost COs globally by altering expression of anti-recombination genes and increase CO rates in certain chromosome parts by changing DNA methylation patterns. In addition, progress is being made to devise methods to target COs to specific chromosome sites.
 
