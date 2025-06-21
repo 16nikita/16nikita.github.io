@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Simulated the effects of mutant recombination landscapes in maize and rice breeding.'
-date: 2009-10-01
+date: 2023-03-27
 venue: 'Proceedings of the National Academy of Sciences.'
 paperurl: 'https://doi.org/10.1073/pnas.2205785119'
 citation: 'Nikita Sajai, Co-author. (2023). &quot;Exploring impact of recombination landscapes on breeding outcomes.&quot; <i>Proceedings of the National Academy of Sciences</i>. 120 (14).'

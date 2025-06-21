@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Too Hot To Handle: Creating a Spicy Tomato and Assessing the Susceptibility of Common Agricultural Pests to Capsaicin"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'Evaluated the potential of capsaicin as an organic pesticide by characterizing its molecular targets in insect pests and assessing the feasibility of engineering capsaicin biosynthesis in Solanaceae crops through protein-ligand docking and sequence conservation analyses.'
+date: 2022-05-15
+venue: 'PLBIO 4000 Final Project'
+paperurl: 'http://academicpages.github.io/files/PLBIO_4000_Final_Project_Manuscript.pdf'
+citation: 'Your Name, You. (2022). &quot;Too Hot To Handle: Creating a Spicy Tomato and Assessing the Susceptibility of Common Agricultural Pests to Capsaicin.&quot; <i>Final Project 1</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The purpose of this project was to evaluate the feasibility of capsaicin as an alternative, organic pesticide. With huge annual crop losses to pests and the toxicity of current pest control chemicals, it would be doubly beneficial to use a less toxic, but equally effective, compound. This paper evaluates whether capsaicin could be an organic alternative to conventional pesticides. There were two fronts studied to evaluate (1) capsaicin’s mode of actions in insect targets and (2) to understand whether capsaicin production could be engineered in plants other than pepper to allow for innate defenses. This research identified key motifs conserved in capsaicin-metabolizing proteins, namely CYP6B6, found in common agricultural pests. In addition, the feasibility of developing spicy plants in the Solanaceae family was evaluated by looking at the conservation of key residues in capsaicin synthase homologs in crops closely related to pepper. Protein-ligand docking was used in both sections in order to identify binding residues and to identify putative active sites in relevant proteins.
