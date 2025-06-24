@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Nikita Sajai's Portfolio"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Nikita Sajai 🌿"
 description              : &description "Committed to protecting our environment with code"
