@@ -17,6 +17,7 @@ redirect_from:
 *Concentration in Computational Biology*  
 *Minor in Climate Change*    
 Graduated *summa cum laude*, December 2022 — GPA: 4.054  
+
 **Honors Thesis🦋:** [*The Mutagenic Effect of Recombination*](https://16nikita.github.io/publication/2010-10-01-paper-title-number-2)
 
 **My Favorite Courses🌟:** Listening to Indigenous Voices, Ecology & Evolutionary Biology, Perspectives on Climate Change, Environmental Justice, Ethics & The Environment, Computational Biology
@@ -34,7 +35,7 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054
   - **Project 2:** Investigated liver pathology in porphyria mouse models by characterizing transcriptional changes in hepatocytes and other liver cell types, uncovering disease-specific gene expression programs and altered cellular states. 
   - **Project 3:** Identified cell-to-cell signaling pathways and reconstructed hepatocyte differentiation trajectories to understand disease progression. 
   - **Project 4:** Examined how physiological processes (e.g. circadian rhythm, fasting, and the estrous cycle) influence liver gene expression across time and sex to understand baseline norms and deviations.   
-- Additionally collaborated with other UCSF Liver Center labs, providing bioinformatics expertise on a diverse range of topics, including: single-cell RNA-sequencing, single-nuclei RNA-sequencing, spatial transcriptomics, and ATAC-sequencing.
+- Additionally collaborated with other UCSF Liver Center labs, providing bioinformatics expertise on a diverse range of topics, such as: single-cell RNA-sequencing, single-nuclei RNA-sequencing, spatial transcriptomics, and ATAC-sequencing.
 
 
 **Research Assistant**  
@@ -46,7 +47,7 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054
 
 **Summer Research Intern (REU)**  
 *Boyce Thompson Institute (Pawlowski Lab)* — *Jun 2021–Aug 2021*  
-- Collaborated with Dr. Wojtek Pawlowski and PhD student Ruth Epstein on multiple projects:
+- Collaborated with Dr. Wojtek Pawlowski and PhD student Ruth Epstein:
   - Evaluate crossover hotspot proximity to haplotype blocks in maize. Project development in R.
   - Conducted wet-lab work using immuno-FiSH and super-resolution microscopy to study crossover protein localization on inverted chromosome arms.  
 
@@ -91,11 +92,7 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054
 
 ## Presentations & Talks  
 ---
-
-- **Honors Thesis Defense**  
-  *The Mutagenic Effect of Recombination* — Cornell University, Dec 2022  
-
-- **Poster Presentation**  
+- **Poster Presentation**   
   *The Mutagenic Effect of Recombination* — Maize Genetics Meeting, St. Louis, MO, May 2023  
 
 - **Oral Presentation (Lightning Talk)**  
