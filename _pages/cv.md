@@ -13,9 +13,12 @@ redirect_from:
 ---
 
 **Cornell University**  
-*B.A. in Biological Sciences (Concentration in Computational Biology), Minor in Climate Change*  
+*B.A. in Biological Sciences*  
+*Concentration in Computational Biology*  
+*Minor in Climate Change*    
 Graduated *summa cum laude*, December 2022 — GPA: 4.054  
-**Honors Thesis🦋:** *The Mutagenic Effect of Recombination*  
+**Honors Thesis🦋:** [*The Mutagenic Effect of Recombination*](https://16nikita.github.io/publication/2010-10-01-paper-title-number-2)
+
 **My Favorite Courses🌟:** Listening to Indigenous Voices, Ecology & Evolutionary Biology, Perspectives on Climate Change, Environmental Justice, Ethics & The Environment, Computational Biology
 
 ---
@@ -25,28 +28,27 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054
 
 **Junior Specialist**  
 *Bruce Wang Lab, UCSF* — *May 2023–Present*  
-- Lead data scientist on single-cell and physiological studies of liver development and disease progression in human and mouse models.  
-  - **Project 1:** Designed and curated a panel of healthy human liver marker genes for the 10X Xenium Spatial Transcriptomics platform to improve spatial resolution of cell types.  
-  - **Project 2:** Analyzed scRNA-seq data from porphyria mouse models (Tartis mutation), identifying disease-associated transcriptional programs in hepatocytes and other liver cell populations.  
-  - **Project 3:** Integrated scRNA-seq datasets generated via 10X Genomics and Seq-Well platforms to enable unified analysis of liver cell states across technologies.  
-  - **Project 4:** Used Monocle3 and NicheNet to model pseudotemporal trajectories and predict ligand–receptor interactions driving communication between macrophages and diseased hepatocytes.  
-  - **Project 5:** Analyzed physiological experimental data from mouse models subjected to hormonal and metabolic perturbations (estrous cycle, circadian rhythm, fasting), identifying time- and sex-dependent transcriptional responses.  
-- Develop and maintain custom pipelines using Linux, R, and Python for data preprocessing, integration, and visualization.  
-- Provide bioinformatics consulting to UCSF Liver Center labs, supporting diverse projects in single-cell RNA-seq, single-nuclei RNA-seq, spatial transcriptomics, and ATAC-seq.
+- Lead data scientist on single-cell and physiological studies of liver development and disease progression in human and mouse models.
+- Developed and maintained custom pipelines using Linux, R, and Python for data preprocessing, integration, and visualization on the following:  
+  - **Project 1:** Developed a curated panel of marker genes to enhance identification and spatial mapping of liver cell types in healthy human tissue, enabling more expansive and precise characterization of liver architecture and cellular organization. 
+  - **Project 2:** Investigated liver pathology in porphyria mouse models by characterizing transcriptional changes in hepatocytes and other liver cell types, uncovering disease-specific gene expression programs and altered cellular states. 
+  - **Project 3:** Identified cell-to-cell signaling pathways and reconstructed hepatocyte differentiation trajectories to understand disease progression. 
+  - **Project 4:** Examined how physiological processes (e.g. circadian rhythm, fasting, and the estrous cycle) influence liver gene expression across time and sex to understand baseline norms and deviations.   
+- Additionally collaborated with other UCSF Liver Center labs, providing bioinformatics expertise on a diverse range of topics, including: single-cell RNA-sequencing, single-nuclei RNA-sequencing, spatial transcriptomics, and ATAC-sequencing.
 
 
 **Research Assistant**  
 *Pawlowski Lab, Cornell University* — *Sept 2021–April 2023*  
-- Collaborated with Dr. Wojtek Pawlowski and PhD student Ruth Epstein on multiple projects:  
-  - **Project 1:** Tested chromatin openness in maize; developed in Linux and R (lead researcher).  
-  - **Project 2:** Simulated effects of mutant recombination landscapes in maize and rice breeding (*published in PNAS*); built with AlphaSimR in R.  
-  - **Project 3:** Honors thesis—used machine learning to assess InDel generation potential of recombination; developed in Linux, R, and Python (lead researcher).
+- Collaborated with Dr. Wojtek Pawlowski and PhD student Ruth Epstein on multiple projects using Linux, R and Python:  
+  - **Project 1:** [*Honors thesis;*](https://16nikita.github.io/publication/2010-10-01-paper-title-number-2) Evaluated the overlap of indels with crossover sites to understand the mutation generation potential of recombination hotspots in the maize genome.
+  - **Project 2:** [*Published in PNAS;*](https://16nikita.github.io/publication/2009-10-01-paper-title-number-1) Simulated effects of mutant recombination landscapes in maize and rice breeding in efforts to increase global recombination rates and improve the efficiency of breeding programs   
+  - **Project 3:** Lead researcher; tested the effectiveness of DNA sonication methods to assess chromatin openness in maize.
 
 **Summer Research Intern (REU)**  
 *Boyce Thompson Institute (Pawlowski Lab)* — *Jun 2021–Aug 2021*  
-- Evaluate CO hotspot proximity to haplotype blocks. Project development in R.
-- Conducted wet-lab work using immuno-FiSH and super-resolution microscopy to study crossover protein localization on inverted chromosome arms.  
-- Collaborated directly with Ruth Epstein on all projects.
+- Collaborated with Dr. Wojtek Pawlowski and PhD student Ruth Epstein on multiple projects:
+  - Evaluate crossover hotspot proximity to haplotype blocks in maize. Project development in R.
+  - Conducted wet-lab work using immuno-FiSH and super-resolution microscopy to study crossover protein localization on inverted chromosome arms.  
 
 ---
 
@@ -55,12 +57,12 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054
 
 **Administrative Assistant**  
 *arXiv* — *Feb 2022–Dec 2022*  
-- Managed metadata and handled journal/manuscript submissions.
+- Managed metadata and handled journal/manuscript pre-print submissions.
 
 **Research Intern**  
 *U.S. Green Chamber of Commerce* — *Jan 2021–May 2021*  
-- Conducted research on fast fashion's impact on climate change.  
-- Co-developed sustainability certification course materials.
+- Conducted research on fast fashion's impact on climate change and published in *ALTR* magazine.  
+- Co-designed sustainability certification course, including developing teaching materials.
 
 **Advocacy Intern**  
 *Common Energy* — *Jan 2021–May 2021*  
@@ -73,7 +75,7 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054
 ---
 
 - **Programming & Scripting:** Python, Java, Bash  
-- **Bioinformatics Tools:** Bowtie2, Bedtools, Samtools, CrossMap, PAFR  
+- **Bioinformatics Tools:** Bowtie2, Bedtools, Samtools  
 - **Data Formats:** FASTQ, SAM, BAM  
 - **Statistical Analysis & Visualization:** R (Seurat, ggplot2, AlphaSimR)  
 - **Systems:** Unix/Linux (shell/bash), High-Performance Cloud Computing (HPC)
@@ -104,13 +106,13 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054
 ## Teaching  
 ---
 
-**Teaching Assistant**  
+**Teaching Assistant for Perspectives in Climate Change Seminar**  
 *Cornell Dept. of Biological & Environmental Engineering* — *Jan 2021–May 2021*  
-- Graded ~50 assignments weekly, attended faculty meetings, and supported course organization.
+- Collaborated with Dr. Peter Hess to support course organization; graded ~50 assignments weekly; attended faculty meetings
 
 ---
 
-## Leadership & Service  
+## Community Involvement  
 ---
 
 - **Volunteer**, *Clinic by the Bay* — *Jan 2024–Present*  
@@ -120,5 +122,23 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054
 - **Volunteer**, *Garden for the Environment (San Francisco)* — *Jan 2025–Present*  
   - Contribute to growing and harvesting clean produce for delivery to the Haight-Ashbury Food Bank
 
-- **Vice President**, Young Researchers Program — *Sept 2019–Dec 2022*  
+- **Vice President**, Young Researchers Program — *Sept 2019–Dec 2022*   
+  - Vice President (2022), Scientific Communications Team Lead (2020-2021)
+  - Provided high school students the opportunity to practice mentored research
+  - Organized career aspiration events and scientific development programs (classes, lectures, and symposium)
 - **Member**, OASIS: Asian and Pacific Islander LGBTQ+ — *Sept 2021–Dec 2022*
+
+---
+
+## Awards  
+---
+
+**Howard Milstein Scholarship, Cornell University**  
+*Awarded Mar 2020*  
+- Awarded $5000 scholarship
+
+**Tanner Dean Scholar, Cornell University**  
+*Awarded Sept 2019*  
+- Awarded $1000 scholarship and up to $5000 research grant
+
+
