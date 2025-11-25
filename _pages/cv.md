@@ -30,20 +30,22 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054
 **Junior Specialist**  
 *Bruce Wang Lab, UCSF* — *May 2023–Present*  
 - Lead data scientist on single-cell and physiological studies of liver development and disease progression in human and mouse models.
-- Developed and maintained custom pipelines using Linux, R, and Python for data preprocessing, integration, and visualization on the following:  
-  - **Project 1:** Developed a curated panel of marker genes to enhance identification and spatial mapping of liver cell types in healthy human tissue, enabling more expansive and precise characterization of liver architecture and cellular organization. 
-  - **Project 2:** Investigated liver pathology in porphyria mouse models by characterizing transcriptional changes in hepatocytes and other liver cell types, uncovering disease-specific gene expression programs and altered cellular states. 
-  - **Project 3:** Identified cell-to-cell signaling pathways and reconstructed hepatocyte differentiation trajectories to understand disease progression. 
-  - **Project 4:** Examined how physiological processes (e.g. circadian rhythm, fasting, and the estrous cycle) influence liver gene expression across time and sex to understand baseline norms and deviations.   
-- Additionally collaborated with other UCSF Liver Center labs, providing bioinformatics expertise on a diverse range of topics, such as: single-cell RNA-sequencing, single-nuclei RNA-sequencing, spatial transcriptomics, and ATAC-sequencing.
-
+- Developed and maintained custom pipelines using Linux, R, and Python for data preprocessing, integration, and visualization on the following projects:  
+  - **Spatial Transcriptomics of Human Liver :** Developed a curated panel of marker genes to enhance identification and spatial mapping of liver cell types in healthy human tissue, enabling more expansive and precise characterization of liver architecture and cellular organization. 
+  - **PCT Liver Single-Cell Analysis:**  Investigated liver pathology in porphyria mouse models by characterizing transcriptional changes in hepatocytes and other liver cell types, uncovering disease-specific gene expression programs. Identified cell-to-cell signaling pathways and reconstructed hepatocyte differentiation trajectories through psuedotime analysis to understand disease progression. 
+  - **Wildtype Liver Physiology Single-Cell Analysis:** Examined how physiological processes (e.g. circadian rhythm, fasting, and the estrous cycle) influence liver gene expression across time and sex to understand baseline norms and deviations.   
+- Bioinformatics consultant for UCSF Liver Center labs, completing analyses across a diverse range of topics: single-nuclei RNA-sequencing, spatial transcriptomics,  single-cell RNA-sequencing, ATAC-sequencing, lipidomics, proteomics, and micro-RNA sequencing.
+  - **snRNA-seq: Hepatic Stellate Cells & Fibrosis (Mouse Liver):** Performed snRNA-seq analysis of hepatic stellate cells to assess tamoxifen’s impact on fibrosis development. Identified treatment-specific gene expression changes, characterized HSC subpopulations, and evaluated ligand–receptor signaling between HSCs, hepatocytes, and myeloid cells. Focused on pathways involved in collagen remodeling, including matrix-associated genes (e.g., MMP1, MMP3).
+  - **Spatial Transcriptomics (Visium HD):** Analyzed Visium HD liver sections and integrated spatial data with single-cell profiles to investigate metabolic reprogramming in Kupffer cells. Compared wild-type and knockout mouse livers to map region-specific changes in innate immune and metabolic function
+  - **Proteomics and MLM: Normothermic Perfusion & Transplant Viability** Conducted longitudinal proteomic analysis of bile and perfusate from normothermic machine-perfused livers to identify signatures predicting early allograft dysfunction (EAD). Integrated metadata such as steatosis status and perfusion timepoints to characterize metabolic collapse, ER/mitochondrial stress, inflammation, and loss of hepatocellular function in EAD grafts. Using LASSO MLM to uncover panel of proteins to predict EAD liver status. Contributed major analysis leading to a manuscript (second author).
+  - **ATAC-seq: Chromatin Accessibility in MASLD vs Healthy iPSC-Hepatocytes** Compared chromatin accessibility landscapes between MASLD-derived and healthy iPSC-hepatocyte lines to identify regulatory regions linked to disease-specific transcriptional programs and metabolic dysfunction.
 
 **Research Assistant**  
 *Pawlowski Lab, Cornell University* — *Sept 2021–April 2023*  
 - Collaborated with Dr. Wojtek Pawlowski and PhD student Ruth Epstein on multiple projects using Linux, R and Python:  
-  - **Project 1:** [*Honors thesis;*](https://16nikita.github.io/publication/2010-10-01-paper-title-number-2) Evaluated the overlap of indels with crossover sites to understand the mutation generation potential of recombination hotspots in the maize genome.
-  - **Project 2:** [*Published in PNAS;*](https://16nikita.github.io/publication/2009-10-01-paper-title-number-1) Simulated effects of mutant recombination landscapes in maize and rice breeding in efforts to increase global recombination rates and improve the efficiency of breeding programs   
-  - **Project 3:** Lead researcher; tested the effectiveness of DNA sonication methods to assess chromatin openness in maize.
+  - **Mutagenic Effect of Recombination:** [*Honors thesis;*](https://16nikita.github.io/publication/2010-10-01-paper-title-number-2) Evaluated the overlap of indels with crossover sites to understand the mutation generation potential of recombination hotspots in the maize genome.
+  - **Mutant Recombination Landscape Effect on Breeding Efficiency:** [*Published in PNAS;*](https://16nikita.github.io/publication/2009-10-01-paper-title-number-1) Simulated effects of mutant recombination landscapes in maize and rice breeding in efforts to increase global recombination rates and improve the efficiency of breeding programs   
+  - **Using DNA Sonication as Proxy for Chromatin Openness:** Lead researcher; tested the effectiveness of DNA sonication methods to assess chromatin openness in maize.
 
 **Summer Research Intern (REU)**  
 *Boyce Thompson Institute (Pawlowski Lab)* — *Jun 2021–Aug 2021*  
