@@ -12,14 +12,35 @@ Though my research in the past two years has been in human health, I have amasse
 
 I graduated *summa cum laude* from Cornell University in December 2022 with a B.A. in Biological Sciences, concentrating in Computational Biology and minoring in Climate Change. At Cornell, I worked in the Pawlowski Lab on a series of collaborative projects using computational approaches to illuminate the factors controlling meiotic recombination in maize and rice. These efforts were directed toward uncovering recombination hotspots to help crops better harness genetic diversity in the face of growing climate pressures.
 
-Moving forward, I plan to integrate my interests in climate change, human biology, and bioinformatics to fight for environmental justice. My next steps include earning a PhD in Computational Biology in efforts to follow this dream. Thank you for taking the time to visit my website.
+Moving forward, I plan to integrate my interests in climate change, public health, and bioinformatics to fight for environmental justice. My next steps include earning a PhD in Computational Biology in efforts to follow this dream. Thank you for taking the time to visit my website.
 
 Technical Skills:
 ------
 
-**Pipelines:** single-cell RNA-seq, single-nucleus RNA-seq, bulk RNA-seq, ATAC-seq, proteomics, and single-cell spatial transcriptomics
+### **Programming & Scripting**
+- Python, R, Bash, Java  
+- Custom pipeline development for scRNA-seq, snRNA-seq, ATAC-seq, spatial transcriptomics, and proteomics  
+- Reproducible workflows: Git/GitHub, conda environments, Makefiles, workflow documentation  
 
-**Tools & Languages:** Linux command-line (Bowtie2, Samtools, Bedtools), R (Seurat, statistical analysis and visualization), Python (Scanpy, machine learning with XGBoost)
+### **Bioinformatics Tools & Frameworks**
+- **Alignment & QC:** Bowtie2, STAR, Samtools, Bedtools, Picard, MACS2/MACS3, deepTools  
+- **Single-Cell & Spatial:** Seurat, Scanpy, CellChat, CellPhoneDB, Harmony, Squidpy, Space Ranger  
+- **Epigenomics:** MACS3 peak calling, featureCounts, HOMER, ATAC-seq QC (FRiP, TSS enrichment)  
+- **Proteomics & Multi-Omics:** MaxQuant, Perseus, limma, clusterProfiler, KEGG/GO enrichment, LASSO regression  
+
+### **Data Formats & Reference Resources**
+- FASTQ, SAM/BAM/CRAM, BED, GTF/GFF, H5AD, Loom  
+- Integrated use of Ensembl/GENCODE, UCSC Genome Browser, MSigDB, KEGG  
+
+### **Statistical Analysis & Visualization**
+- R: tidyverse, ggplot2, Seurat, limma, pheatmap, AlphaSimR  
+- Python: pandas, numpy, matplotlib, scikit-learn, scanpy  
+- Experience with modeling (mixed-effects, LASSO/elastic net), batch correction, pseudotime inference, and trajectory analysis  
+
+### **Systems & High-Performance Computing**
+- Unix/Linux (shell/bash)  
+- SLURM-based HPC environments, array jobs, pipeline parallelization  
+- Large-scale data management, cloud computing workflows  
 
 Interpersonal Skills:
 ------
