@@ -14,7 +14,7 @@ I graduated *summa cum laude* from Cornell University in December 2022 with a B.
 
 Moving forward, I plan to integrate my interests in climate change, public health, and bioinformatics to fight for environmental justice. My next steps include earning a PhD in Computational Biology in efforts to follow this dream. Thank you for taking the time to visit my website.
 
-<h2 style="color:#2E6F3E;">What fascinates me?</h2>
+<h2 style="color:#2E6F3E;">What fascinates me?💫</h2> 
 ------
 - Understanding how climate change shapes disease origins, progression, and long-term health trajectories  
 - Advancing research that supports and uplifts BIPOC and LGBTQ+ communities disproportionately affected by environmental and health inequities  
@@ -23,35 +23,19 @@ Moving forward, I plan to integrate my interests in climate change, public healt
 - Combining social science with biological inquiry to contextualize mechanisms with the “why” of real-world impact  
 - Promoting open science, inclusive research environments, and broadened access to computational biology  
 
-What am I good at?
+<h2 style="color:#2E6F3E;">What am I good at?🌟</h2>
 ------
+**Programming & Pipelines:** Python, R, Bash, Java; development of reproducible pipelines for scRNA-seq, snRNA-seq, ATAC-seq, spatial transcriptomics, and proteomics.
 
-### **Programming & Scripting**
-- Python, R, Bash, Java  
-- Custom pipeline development for scRNA-seq, snRNA-seq, ATAC-seq, spatial transcriptomics, and proteomics  
-- Reproducible workflows: Git/GitHub, conda environments, Makefiles, workflow documentation  
+**Single-Cell, Spatial & Epigenomics Analysis:** Seurat, Scanpy, Squidpy, CellChat, MACS3, featureCounts, HOMER, and full QC workflows (FRiP, TSS enrichment).
 
-### **Bioinformatics Tools & Frameworks**
-- **Alignment & QC:** Bowtie2, STAR, Samtools, Bedtools, Picard, MACS2/MACS3, deepTools  
-- **Single-Cell & Spatial:** Seurat, Scanpy, CellChat, CellPhoneDB, Harmony, Squidpy, Space Ranger  
-- **Epigenomics:** MACS3 peak calling, featureCounts, HOMER, ATAC-seq QC (FRiP, TSS enrichment)  
-- **Proteomics & Multi-Omics:** MaxQuant, Perseus, limma, clusterProfiler, KEGG/GO enrichment, LASSO regression  
+**Alignment, Processing & Multi-omics Integration:** Bowtie2, STAR, Samtools, deepTools, MaxQuant, Perseus, limma, clusterProfiler, KEGG/GO enrichment, LASSO/ML modeling.
 
-### **Data Formats & Reference Resources**
-- FASTQ, SAM/BAM/CRAM, BED, GTF/GFF, H5AD, Loom  
-- Integrated use of Ensembl/GENCODE, UCSC Genome Browser, MSigDB, KEGG  
+**Statistical Computing & Visualization:** tidyverse, ggplot2, numpy/pandas, scikit-learn, pseudotime/trajectory inference, batch correction, and mixed-effects modeling.
 
-### **Statistical Analysis & Visualization**
-- R: tidyverse, ggplot2, Seurat, limma, pheatmap, AlphaSimR  
-- Python: pandas, numpy, matplotlib, scikit-learn, scanpy  
-- Experience with modeling (mixed-effects, LASSO/elastic net), batch correction, pseudotime inference, and trajectory analysis  
+**High-Performance Computing:** Unix/Linux, SLURM job scheduling, large-scale data management, cloud workflows, and version-controlled environments (Git, conda).
 
-### **Systems & High-Performance Computing**
-- Unix/Linux (shell/bash)  
-- SLURM-based HPC environments, array jobs, pipeline parallelization  
-- Large-scale data management, cloud computing workflows  
-
-How do I operate in a research setting?
+<h2 style="color:#2E6F3E;">How do I operate in a research setting?✨</h2>
 ------
 🪴 **Collaborative Researcher:** Experienced in working across interdisciplinary teams and labs, including as a core collaborator within the UCSF Liver Center. Comfortable coordinating with biologists, clinicians, and computational scientists.
 
