@@ -14,7 +14,16 @@ I graduated *summa cum laude* from Cornell University in December 2022 with a B.
 
 Moving forward, I plan to integrate my interests in climate change, public health, and bioinformatics to fight for environmental justice. My next steps include earning a PhD in Computational Biology in efforts to follow this dream. Thank you for taking the time to visit my website.
 
-Technical Skills:
+What fascinates me?:
+------
+- Understanding how climate change shapes disease origins, progression, and long-term health trajectories  
+- Advancing research that supports and uplifts BIPOC and LGBTQ+ communities disproportionately affected by environmental and health inequities  
+- Exploring interspecies interactions and their roles in disease emergence and biological adaptation  
+- Integrating environmental justice frameworks into public health and biomedical research  
+- Combining social science with biological inquiry to contextualize mechanisms with the “why” of real-world impact  
+- Promoting open science, inclusive research environments, and broadened access to computational biology  
+
+What am I good at?:
 ------
 
 ### **Programming & Scripting**
@@ -42,7 +51,7 @@ Technical Skills:
 - SLURM-based HPC environments, array jobs, pipeline parallelization  
 - Large-scale data management, cloud computing workflows  
 
-Interpersonal Skills:
+How do I operate in a research setting?:
 ------
 🪴 **Collaborative Researcher:** Experienced in working across interdisciplinary teams and labs, including as a core collaborator within the UCSF Liver Center. Comfortable coordinating with biologists, clinicians, and computational scientists.
 
