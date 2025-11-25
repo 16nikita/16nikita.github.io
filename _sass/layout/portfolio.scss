@@ -1,6 +1,6 @@
 .portfolio-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); // 3 bubbles per row
+  grid-template-columns: repeat(3, 1fr);
   gap: 40px;
   justify-items: center;
   padding: 40px 0;
@@ -15,43 +15,49 @@
 }
 
 .portfolio-content {
+  position: relative;
   border-radius: 50%;
-  background: #e5f1e9;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
   overflow: hidden;
-  padding: 20px;
+  width: 220px; // default size, overridden by size-small/medium/large
+  height: 220px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  font-size: 1rem;
-
-  // Random bubble sizes
-  &.size-small { width: 180px; height: 180px; }
-  &.size-medium { width: 220px; height: 220px; }
-  &.size-large { width: 260px; height: 260px; }
-
-  h3 {
-    color: #3c8d47; // limier forest green
-    margin: 0;
-    z-index: 2;
-  }
 
   img {
     width: 100%;
     height: 100%;
     object-fit: cover;
     border-radius: 50%;
+    display: block;
     transition: transform 0.3s ease;
   }
+
+  .portfolio-title {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background: rgba(0,0,0,0.4); // semi-transparent overlay
+    text-align: center;
+    color: #ffffff;
+    padding: 5px 0;
+
+    h3 {
+      margin: 0;
+      font-size: 1rem;
+      line-height: 1.2;
+    }
+  }
+
+  // Random bubble sizes
+  &.size-small { width: 180px; height: 180px; }
+  &.size-medium { width: 220px; height: 220px; }
+  &.size-large { width: 260px; height: 260px; }
 }
 
 .portfolio-item:hover .portfolio-content {
-  transform: scale(1.1);
+  transform: scale(1.05);
   box-shadow: 0 8px 20px rgba(0,0,0,0.2);
 }
 
 .portfolio-item:hover .portfolio-content img {
-  transform: scale(1.05);
+  transform: scale(1.1);
 }

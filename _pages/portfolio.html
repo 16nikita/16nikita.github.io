@@ -13,7 +13,12 @@ author_profile: true
     {% assign bubble_size = sizes[forloop.index0 | modulo: sizes.size] %}
     <a href="{{ post.url }}" class="portfolio-item">
       <div class="portfolio-content {{ bubble_size }}">
-        {{ post.excerpt | markdownify }}
+        {% if post.excerpt contains "<img" %}
+          {{ post.excerpt | markdownify | strip_html | split: 'src=' | last | split: '"' | second | prepend: '/images/' | prepend: '<img src="' | append: '">' }}
+        {% endif %}
+        <div class="portfolio-title">
+          <h3>{{ post.title }}</h3>
+        </div>
       </div>
     </a>
   {% endfor %}
