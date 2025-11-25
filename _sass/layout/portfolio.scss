@@ -1,6 +1,6 @@
 .portfolio-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3, 1fr); // 3 bubbles per row
   gap: 40px;
   justify-items: center;
   padding: 40px 0;
@@ -16,10 +16,10 @@
 
 .portfolio-content {
   position: relative;
+  width: 260px;
+  height: 260px;
   border-radius: 50%;
   overflow: hidden;
-  width: 220px; // default size, overridden by size-small/medium/large
-  height: 220px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 
   img {
@@ -35,22 +35,18 @@
     position: absolute;
     bottom: 0;
     width: 100%;
-    background: rgba(0,0,0,0.4); // semi-transparent overlay
+    background: rgba(0,0,0,0.5); // semi-transparent overlay
     text-align: center;
     color: #ffffff;
-    padding: 5px 0;
+    padding: 10px 5px;
 
     h3 {
       margin: 0;
       font-size: 1rem;
       line-height: 1.2;
+      word-wrap: break-word;
     }
   }
-
-  // Random bubble sizes
-  &.size-small { width: 180px; height: 180px; }
-  &.size-medium { width: 220px; height: 220px; }
-  &.size-large { width: 260px; height: 260px; }
 }
 
 .portfolio-item:hover .portfolio-content {

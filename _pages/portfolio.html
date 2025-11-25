@@ -8,13 +8,11 @@ author_profile: true
 {% include base_path %}
 
 <div class="portfolio-grid">
-  {% assign sizes = "size-small,size-medium,size-large" | split: "," %}
   {% for post in site.portfolio %}
-    {% assign bubble_size = sizes[forloop.index0 | modulo: sizes.size] %}
     <a href="{{ post.url }}" class="portfolio-item">
-      <div class="portfolio-content {{ bubble_size }}">
+      <div class="portfolio-content">
         {% if post.excerpt contains "<img" %}
-          {{ post.excerpt | markdownify | strip_html | split: 'src=' | last | split: '"' | second | prepend: '/images/' | prepend: '<img src="' | append: '">' }}
+          {{ post.excerpt | markdownify | strip_html }}
         {% endif %}
         <div class="portfolio-title">
           <h3>{{ post.title }}</h3>
