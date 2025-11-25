@@ -31,11 +31,11 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054
 *Bruce Wang Lab, UCSF* — *May 2023–Present*  
 - Lead data scientist on single-cell and physiological studies of liver development and disease progression in human and mouse models.
 - Developed and maintained custom pipelines using Linux, R, and Python for data preprocessing, integration, and visualization on the following projects:  
-  - **Spatial Transcriptomics of Human Liver :** Developed a curated panel of marker genes to enhance identification and spatial mapping of liver cell types in healthy human tissue, enabling more expansive and precise characterization of liver architecture and cellular organization. 
+  - **Spatial Transcriptomics of Human Liver:** Developed a curated panel of marker genes to enhance identification and spatial mapping of liver cell types in healthy human tissue, enabling more expansive and precise characterization of liver architecture and cellular organization. 
   - **PCT Liver Single-Cell Analysis:**  Investigated liver pathology in porphyria mouse models by characterizing transcriptional changes in hepatocytes and other liver cell types, uncovering disease-specific gene expression programs. Identified cell-to-cell signaling pathways and reconstructed hepatocyte differentiation trajectories through psuedotime analysis to understand disease progression. 
   - **Wildtype Liver Physiology Single-Cell Analysis:** Examined how physiological processes (e.g. circadian rhythm, fasting, and the estrous cycle) influence liver gene expression across time and sex to understand baseline norms and deviations.   
 - Bioinformatics consultant for UCSF Liver Center labs, completing analyses across a diverse range of topics: single-nuclei RNA-sequencing, spatial transcriptomics,  single-cell RNA-sequencing, ATAC-sequencing, lipidomics, proteomics, and micro-RNA sequencing.
-  - **snRNA-seq: Hepatic Stellate Cells & Fibrosis (Mouse Liver):** Performed snRNA-seq analysis of hepatic stellate cells to assess tamoxifen’s impact on fibrosis development. Identified treatment-specific gene expression changes, characterized HSC subpopulations, and evaluated ligand–receptor signaling between HSCs, hepatocytes, and myeloid cells. Focused on pathways involved in collagen remodeling, including matrix-associated genes (e.g., MMP1, MMP3).
+  - **snRNA-seq: Hepatic Stellate Cells & Fibrosis:** Performed snRNA-seq analysis of hepatic stellate cells to assess tamoxifen’s impact on fibrosis development. Identified treatment-specific gene expression changes, characterized HSC subpopulations, and evaluated ligand–receptor signaling between HSCs, hepatocytes, and myeloid cells. Focused on pathways involved in collagen remodeling, including matrix-associated genes (e.g., MMP1, MMP3).
   - **Spatial Transcriptomics (Visium HD):** Analyzed Visium HD liver sections and integrated spatial data with single-cell profiles to investigate metabolic reprogramming in Kupffer cells. Compared wild-type and knockout mouse livers to map region-specific changes in innate immune and metabolic function
   - **Proteomics and MLM: Normothermic Perfusion & Transplant Viability** Conducted longitudinal proteomic analysis of bile and perfusate from normothermic machine-perfused livers to identify signatures predicting early allograft dysfunction (EAD). Integrated metadata such as steatosis status and perfusion timepoints to characterize metabolic collapse, ER/mitochondrial stress, inflammation, and loss of hepatocellular function in EAD grafts. Using LASSO MLM to uncover panel of proteins to predict EAD liver status. Contributed major analysis leading to a manuscript (second author).
   - **ATAC-seq: Chromatin Accessibility in MASLD vs Healthy iPSC-Hepatocytes** Compared chromatin accessibility landscapes between MASLD-derived and healthy iPSC-hepatocyte lines to identify regulatory regions linked to disease-specific transcriptional programs and metabolic dysfunction.
@@ -74,14 +74,35 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054
 
 ---
 
-## Skills  
 ---
 
-- **Programming & Scripting:** Python, Java, Bash  
-- **Bioinformatics Tools:** Bowtie2, Bedtools, Samtools  
-- **Data Formats:** FASTQ, SAM, BAM  
-- **Statistical Analysis & Visualization:** R (Seurat, ggplot2, AlphaSimR)  
-- **Systems:** Unix/Linux (shell/bash), High-Performance Cloud Computing (HPC)
+## Computational & Bioinformatic Skills  
+---
+
+### **Programming & Scripting**
+- Python, R, Bash, Java  
+- Custom pipeline development for scRNA-seq, snRNA-seq, ATAC-seq, spatial transcriptomics, and proteomics  
+- Reproducible workflows: Git/GitHub, conda environments, Makefiles, workflow documentation  
+
+### **Bioinformatics Tools & Frameworks**
+- **Alignment & QC:** Bowtie2, STAR, Samtools, Bedtools, Picard, MACS2/MACS3, deepTools  
+- **Single-Cell & Spatial:** Seurat, Scanpy, CellChat, CellPhoneDB, Harmony, Squidpy, Space Ranger  
+- **Epigenomics:** MACS3 peak calling, featureCounts, HOMER, ATAC-seq QC (FRiP, TSS enrichment)  
+- **Proteomics & Multi-Omics:** MaxQuant, Perseus, limma, clusterProfiler, KEGG/GO enrichment, LASSO regression  
+
+### **Data Formats & Reference Resources**
+- FASTQ, SAM/BAM/CRAM, BED, GTF/GFF, H5AD, Loom  
+- Integrated use of Ensembl/GENCODE, UCSC Genome Browser, MSigDB, KEGG  
+
+### **Statistical Analysis & Visualization**
+- R: tidyverse, ggplot2, Seurat, limma, pheatmap, AlphaSimR  
+- Python: pandas, numpy, matplotlib, scikit-learn, scanpy  
+- Experience with modeling (mixed-effects, LASSO/elastic net), batch correction, pseudotime inference, and trajectory analysis  
+
+### **Systems & High-Performance Computing**
+- Unix/Linux (shell/bash)  
+- SLURM-based HPC environments, array jobs, pipeline parallelization  
+- Large-scale data management, cloud computing workflows  
 
 ---
 
