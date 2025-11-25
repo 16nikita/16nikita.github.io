@@ -1,9 +1,9 @@
 .portfolio-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-  gap: 20px;
+  grid-template-columns: repeat(3, 1fr); // 3 bubbles per row
+  gap: 40px;
   justify-items: center;
-  padding: 20px 0;
+  padding: 40px 0;
 }
 
 .portfolio-item {
@@ -23,17 +23,17 @@
   justify-content: center;
   text-align: center;
   overflow: hidden;
-  padding: 10px;
+  padding: 20px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  font-size: 0.9rem;
+  font-size: 1rem;
 
-  // Random bubble sizes (small, medium, large)
-  &.size-small { width: 120px; height: 120px; }
-  &.size-medium { width: 160px; height: 160px; }
-  &.size-large { width: 200px; height: 200px; }
+  // Random bubble sizes
+  &.size-small { width: 180px; height: 180px; }
+  &.size-medium { width: 220px; height: 220px; }
+  &.size-large { width: 260px; height: 260px; }
 
   h3 {
-    color: #2e6f3e; // forest green
+    color: #3c8d47; // limier forest green
     margin: 0;
     z-index: 2;
   }
