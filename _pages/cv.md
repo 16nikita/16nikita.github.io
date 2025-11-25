@@ -16,7 +16,7 @@ redirect_from:
 *B.A. in Biological Sciences*  
 *Concentration in Computational Biology*  
 *Minor in Climate Change*    
-Graduated *summa cum laude*, December 2022 — GPA: 4.054  
+Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
 
 **Honors Thesis🦋:** [*The Mutagenic Effect of Recombination*](https://16nikita.github.io/publication/2010-10-01-paper-title-number-2)
 
@@ -29,7 +29,7 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054
 
 **Junior Specialist**  
 *Bruce Wang Lab, UCSF* — *May 2023–Present*  
-- Lead data scientist on single-cell and physiological studies of liver development and disease progression in human and mouse models.
+- Lead data scientist on single-cell physiological studies and complementary spatial transcriptomics analyses of liver development and disease progression in human and mouse models.
 - Developed and maintained custom pipelines using Linux, R, and Python for data preprocessing, integration, and visualization on the following projects:  
   - **Spatial Transcriptomics of Human Liver:** Developed a curated panel of marker genes to enhance identification and spatial mapping of liver cell types in healthy human tissue, enabling more expansive and precise characterization of liver architecture and cellular organization. 
   - **PCT Liver Single-Cell Analysis:**  Investigated liver pathology in porphyria mouse models by characterizing transcriptional changes in hepatocytes and other liver cell types, uncovering disease-specific gene expression programs. Identified cell-to-cell signaling pathways and reconstructed hepatocyte differentiation trajectories through psuedotime analysis to understand disease progression. 
