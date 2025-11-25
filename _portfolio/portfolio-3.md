@@ -1,6 +1,6 @@
 ---
 title: "UCSF Liver Center Bioinformatics Core"
-excerpt: "Various Outputs from Projects <br/><img src='/images/consulting.png'>"
+excerpt: "<br/><img src='/images/consulting.png'>"
 collection: portfolio
 ---
 **When:** July 2023-Ongoing

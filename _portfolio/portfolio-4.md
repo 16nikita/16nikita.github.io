@@ -1,6 +1,6 @@
 ---
 title: "Single-Cell Analysis of UROD-Treated Mouse Hepatocytes Reveals Polyploidization and Stress-Response Dynamics in Porphyria Progression"
-excerpt: "Pseudotime Analysis of UROD-Treated Hepatocytes <br/><img src='/images/monocle3.png'>"
+excerpt: "<br/><img src='/images/monocle3.png'>"
 collection: portfolio
 ---
 **When:** July 2023-Ongoing

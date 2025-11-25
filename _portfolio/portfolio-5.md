@@ -1,6 +1,6 @@
 ---
 title: "The Mutagenic Effect of Recombination"
-excerpt: "Enrichment of small indels within Double-Stranded Break (DSB) and Crossover (CO) sites <br/><img src='/images/indel_density.png'>"
+excerpt: "<br/><img src='/images/indel_density.png'>"
 collection: portfolio
 ---
 **When:** June 2021-December 2022

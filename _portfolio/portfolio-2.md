@@ -1,6 +1,6 @@
 ---
 title: "Single-Cell Analysis of Physiological Processes (Circadian, Metabolic, and Hormonal Regulation) in Wild-Type Mouse Liver"
-excerpt: "Top-level UMAP of Single-Cell Circadian Rhythm Mice Data <br/><img src='/images/circadian_rhythms.png'>"
+excerpt: "<br/><img src='/images/circadian_rhythms.png'>"
 collection: portfolio
 ---
 **When:** May 2024-Ongoing

@@ -1,6 +1,6 @@
 ---
 title: "Spatial Transcriptomics Analysis of the Human Liver Landscape"
-excerpt: "Visualizing the heterogeneity of healthy liver tissue <br/><img src='/images/spatial_transcriptomics.png'>"
+excerpt: "<br/><img src='/images/spatial_transcriptomics.png'>"
 collection: portfolio
 ---
 **When:** Ongoing (September 2023- Present)
