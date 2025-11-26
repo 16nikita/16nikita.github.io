@@ -97,3 +97,23 @@
 .portfolio-item:hover img {
   transform: scale(1.05);
 }
+/* ===============================
+   Entry image
+   =============================== */
+.portfolio-full-image {
+  margin: 40px 0;
+  text-align: center;
+
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px; // optional: soft rounded corners
+    display: inline-block;
+  }
+
+  .image-caption {
+    margin-top: 10px;
+    font-size: 0.9rem;
+    color: #555;
+  }
+}
