@@ -11,14 +11,24 @@ author_profile: true
   {% for post in site.portfolio %}
     <a href="{{ post.url }}" class="portfolio-item">
       <div class="portfolio-content">
+
+        {%- comment -%}
+        EXTRACT IMAGE FROM EXCERPT
+        Excerpt contains raw HTML like:
+        excerpt: "<br/><img src='/images/foo.png'>"
+        We strip whitespace but do NOT markdownify to avoid <p> wrappers.
+        {%- endcomment -%}
+
         {% if post.excerpt contains "<img" %}
           <div class="portfolio-image">
-            {{ post.excerpt | markdownify }}
+            {{ post.excerpt | strip_newlines }}
           </div>
         {% endif %}
+
         <div class="portfolio-title">
           <h3>{{ post.title }}</h3>
         </div>
+
       </div>
     </a>
   {% endfor %}
