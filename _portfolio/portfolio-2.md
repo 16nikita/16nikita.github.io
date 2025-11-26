@@ -18,5 +18,5 @@ These results provide a high-resolution map of physiological liver regulation an
 <!-- Full-size image -->
 <div class="portfolio-full-image">
   <img src="/images/circadian_rhythms.png" alt="Single-Cell Analysis of Physiological Processes (Circadian, Metabolic, and Hormonal Regulation) in Wild-Type Mouse Liver">
-  <p class="image-caption">Circadian rhythm experiments single-cell data; UMAPs clockwise from top left: Leiden clustering, circadian timepoints, mouse IDs (sample), percent mitochondrial content within each cell. </p>
+  <p class="image-caption"> Top-level UMAPs of circadian rhythm experiments single-cell data including all hepatocytes and non-parenchymal liver cells; UMAPs clockwise from top left: 1) Leiden clustering, 2) circadian timepoints, 3)percent mitochondrial content within each cell, and 4) mouse IDs (sample). </p>
 </div>

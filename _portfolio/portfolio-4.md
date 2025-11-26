@@ -14,5 +14,10 @@ Notably, UROD treatment induces polyploidization, particularly within cells disp
 Pathway enrichment across clusters further supported these findings, with upregulation of ribosomal, oxidative phosphorylation, and ubiquitin-mediated proteolysis pathways, and downregulation of metabolic and blood coagulation functions in treated cells. Integration of QC-filtered datasets confirmed that observed effects were not artifacts of selective cell loss, reinforcing the robustness of the polyploid and stress-response signatures.
 
 Together, these analyses provide a comprehensive single-cell characterization of hepatocyte responses to UROD treatment, revealing polyploidization, stress signaling, and disruption of zonation as hallmarks of early PCT pathology. This work is currently being prepared for manuscript submission.
+---
 
-
+<!-- Full-size image -->
+<div class="portfolio-full-image">
+  <img src="/images/monocle3.png" alt="Single-Cell Analysis of UROD-Treated Mouse Hepatocytes Reveals Polyploidization and Stress-Response Dynamics in Porphyria Progression">
+  <p class="image-caption"> Pseudotime analysis of UROD-treated mice hepatocytes using Monocle3. Trajectory, and decreasing expression of stress genes over pseudotime, implicates the pseudotime endpoint polyploid population as an evolved stress-response to UROD treatment. </p>
+</div>
