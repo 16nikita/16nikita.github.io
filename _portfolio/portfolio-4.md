@@ -14,6 +14,7 @@ Notably, UROD treatment induces polyploidization, particularly within cells disp
 Pathway enrichment across clusters further supported these findings, with upregulation of ribosomal, oxidative phosphorylation, and ubiquitin-mediated proteolysis pathways, and downregulation of metabolic and blood coagulation functions in treated cells. Integration of QC-filtered datasets confirmed that observed effects were not artifacts of selective cell loss, reinforcing the robustness of the polyploid and stress-response signatures.
 
 Together, these analyses provide a comprehensive single-cell characterization of hepatocyte responses to UROD treatment, revealing polyploidization, stress signaling, and disruption of zonation as hallmarks of early PCT pathology. This work is currently being prepared for manuscript submission.
+
 ---
 
 <!-- Full-size image -->
