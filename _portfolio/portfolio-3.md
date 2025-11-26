@@ -39,3 +39,9 @@ I compared chromatin accessibility profiles between iPSC-derived hepatocyte line
 
 ---
 
+
+<!-- Full-size image -->
+<div class="portfolio-full-image">
+  <img src="/images/consulting.png" alt="UCSF Liver Center Bioinformatics Core">
+  <p class="image-caption"> Snapshots of outputs from various analyses done as a UCSF Liver Center Bioinformatics Core Consultant </p>
+</div>
