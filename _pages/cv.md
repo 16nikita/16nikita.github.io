@@ -13,7 +13,7 @@ redirect_from:
 </div>
 
 <!-- CV Navigation -->
-<div style="margin-bottom: 2em; display:flex; flex-wrap:wrap; gap:0.5em;">
+<div style="margin-bottom: 2em; display:flex; flex-wrap:wrap; gap:1em;">
   <a href="#education" style="padding:0.5em 1em; background:#2E6F3E; color:white; text-decoration:none; border-radius:5px;">Education</a>
   <a href="#research-experience" style="padding:0.5em 1em; background:#2E6F3E; color:white; text-decoration:none; border-radius:5px;">Research</a>
   <a href="#computational-bioinformatics-skills" style="padding:0.5em 1em; background:#2E6F3E; color:white; text-decoration:none; border-radius:5px;">Skills</a>
@@ -110,7 +110,7 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
 
 ---
 
-<h2 id="presentations" style="color:#2E6F3E;">Presentations</h2>
+<h2 id="presentations" style="color:#2E6F3E;">Talks</h2>
 ---
 
 - **Oral Presentation:** Overview of Liver Gene Analysis Core - UCSF Liver Center Research in Progress (RIPS), San Francisco, CA, September 2025
