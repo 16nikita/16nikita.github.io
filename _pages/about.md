@@ -21,7 +21,7 @@ Moving forward, I plan to integrate my interests in public health and bioinforma
 - Collaboration across disciplines: recruiting artists to turn publications into art or consulting with sociologists on data interpretation, general-access conferences
 - Uplifting marginalized voices in the lab and bringing more in
 - Learning from the land and non-human beings
-- Fighting for justice in and outside the lab, including a free Palestine, Congo, and Sudan; No one is free until we are all free
+- Fighting for justice in and outside the lab, including a free Palestine, Congo, and Sudan; <strong>No one is free until we are all free</strong>
 
 <h2 style="color:#2E6F3E;">What fascinates me?💫</h2>
 
