@@ -127,7 +127,6 @@ analytics:
 include:
   - .htaccess
   - _pages
-  - assets/css
   - files
 exclude:
   - "*.sublime-project"
