@@ -7,11 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<!-- CV Download Button -->
-<div style="text-align:left; margin-bottom: 1em;">
-  <a href="http://16nikita.github.io/files/Nikita_Sajai_AccessibleCV.pdf" target="_blank" style="padding: 0.5em 1em; background:#2E6F3E; color:white; text-decoration:none; border-radius:5px;">CV PDF</a>
-</div>
-
 <!-- CV Navigation Bar with Gradient -->
 <div style="display:flex; flex-wrap:wrap; justify-content:space-between; 
             background: linear-gradient(to right, #66BB6A, #2E7D32); 
@@ -25,6 +20,7 @@ redirect_from:
   <a href="#teaching" style="color:white; text-decoration:none; font-weight:bold;">Teaching</a>
   <a href="#community-involvement" style="color:white; text-decoration:none; font-weight:bold;">Community</a>
   <a href="#awards" style="color:white; text-decoration:none; font-weight:bold;">Awards</a>
+  <a href="#PDF" style="color:white; text-decoration:none; font-weight:bold;">PDF</a>
 </div>
 
 
@@ -182,3 +178,12 @@ Awarded Mar 2020, $5000 scholarship
 **Tanner Dean Scholar, Cornell University**
 Awarded Sept 2019, $1000 scholarship and up to $5000 research grant
 
+---
+
+<h2 id="PDF" style="color:#2E6F3E;">PDF</h2> 
+---
+
+<!-- CV Download Button -->
+<div style="text-align:left; margin-bottom: 1em;">
+  <a href="http://16nikita.github.io/files/Nikita_Sajai_AccessibleCV.pdf" target="_blank" style="padding: 0.5em 1em; background:#2E6F3E; color:white; text-decoration:none; border-radius:5px;">CV PDF</a>
+</div>
