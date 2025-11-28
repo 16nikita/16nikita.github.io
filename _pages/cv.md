@@ -17,43 +17,48 @@ redirect_from:
 <details open>
   <summary><strong>Education</strong></summary>
 
-**Cornell University**  
-*B.A. in Biological Sciences*  
-*Concentration in Computational Biology*  
-*Minor in Climate Change*    
+### Cornell University
+**Degree:** B.A. in Biological Sciences  
+**Concentration:** Computational Biology  
+**Minor:** Climate Change  
 Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
 
 **Honors Thesis🦋:** [*The Mutagenic Effect of Recombination*](https://16nikita.github.io/publication/2010-10-01-paper-title-number-2)
 
-**My Favorite Courses🌟:** Listening to Indigenous Voices, Ecology & Evolutionary Biology, Perspectives on Climate Change, Environmental Justice, Ethics & The Environment, Computational Biology
+**Favorite Courses🌟:**  
+- Listening to Indigenous Voices  
+- Ecology & Evolutionary Biology  
+- Perspectives on Climate Change  
+- Environmental Justice  
+- Ethics & The Environment  
+- Computational Biology
 
 </details>
 
 <details>
   <summary><strong>Research Experience</strong></summary>
 
-**Junior Specialist**  
-*Bruce Wang Lab, UCSF* — *May 2023–Present*  
-- Lead data scientist on single-cell physiological studies and complementary spatial transcriptomics analyses of liver development and disease progression in human and mouse models.  
-- Developed and maintained custom pipelines using Linux, R, and Python for data preprocessing, integration, and visualization.  
-- Projects include:  
-  - **Spatial Transcriptomics of Human Liver:** Curated marker gene panel to map liver cell types, improving tissue characterization.  
-  - **PCT Progression in UROD-Treated Mouse Hepatocytes:** Characterized transcriptional changes, pseudotime trajectories, and disease progression patterns.  
-  - **Wildtype Liver Physiology Single-Cell Analysis:** Examined sex- and time-dependent transcriptional variations in liver.  
-- Bioinformatics consulting for UCSF Liver Center labs:  
-  - **snRNA-seq: Hepatic Stellate Cells & Fibrosis:** Identified treatment-specific gene expression changes, HSC subpopulations, and ligand-receptor signaling affecting collagen remodeling (MMP1, MMP3).  
-  - **Spatial Transcriptomics (Visium HD):** Integrated spatial and single-cell data to map Kupffer cell metabolic reprogramming.  
-  - **Proteomics & MLM:** Longitudinal bile/perfusate analysis to predict early allograft dysfunction (EAD) and metabolic collapse; second author on manuscript.  
-  - **ATAC-seq: Chromatin Accessibility:** Compared MASLD vs healthy iPSC-hepatocytes to identify disease-specific regulatory regions.
+### Junior Specialist — Bruce Wang Lab, UCSF (May 2023–Present)
+- Lead data scientist on single-cell and spatial transcriptomics studies of liver development and disease.  
+- Developed pipelines in Linux, R, and Python for preprocessing, integration, and visualization.  
 
-**Research Assistant**  
-*Pawlowski Lab, Cornell University* — *Sept 2021–April 2023*  
+**Projects:**  
+- **Spatial Transcriptomics of Human Liver:** Curated marker gene panel to map liver cell types.  
+- **PCT Progression in UROD-Treated Mouse Hepatocytes:** Characterized transcriptional changes, pseudotime trajectories, and disease progression patterns.  
+- **Wildtype Liver Physiology Single-Cell Analysis:** Examined sex- and time-dependent transcriptional variations.  
+
+**Consulting for UCSF Liver Center:**  
+- **snRNA-seq: Hepatic Stellate Cells & Fibrosis:** Identified treatment-specific gene expression changes, HSC subpopulations, and ligand-receptor signaling affecting collagen remodeling (MMP1, MMP3).  
+- **Spatial Transcriptomics (Visium HD):** Integrated spatial and single-cell data to map Kupffer cell metabolic reprogramming.  
+- **Proteomics & MLM:** Longitudinal bile/perfusate analysis to predict early allograft dysfunction (EAD); second author on manuscript.  
+- **ATAC-seq: Chromatin Accessibility:** Compared MASLD vs healthy iPSC-hepatocytes to identify disease-specific regulatory regions.
+
+### Research Assistant — Pawlowski Lab, Cornell University (Sept 2021–Apr 2023)
 - **Mutagenic Effect of Recombination:** [*Honors thesis*](https://16nikita.github.io/publication/2010-10-01-paper-title-number-2) — analyzed indel overlap with crossover sites in maize.  
 - **Mutant Recombination Landscapes:** [*PNAS publication*](https://16nikita.github.io/publication/2009-10-01-paper-title-number-1) — simulated effects on breeding efficiency.  
 - **DNA Sonication as Chromatin Openness Proxy:** Tested methods for assessing chromatin accessibility in maize.
 
-**Summer Research Intern (REU)**  
-*Boyce Thompson Institute (Pawlowski Lab)* — *Jun 2021–Aug 2021*  
+### Summer Research Intern (REU) — Boyce Thompson Institute (Pawlowski Lab) (Jun 2021–Aug 2021)
 - Evaluated crossover hotspot proximity to haplotype blocks in maize using R.  
 - Conducted immuno-FiSH and super-resolution microscopy for crossover protein localization.
 
@@ -62,17 +67,16 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
 <details>
   <summary><strong>Other Professional Experience</strong></summary>
 
-**Administrative Assistant**  
-*arXiv* — *Feb 2022–Dec 2022*  
-- Managed metadata and pre-print submissions.  
+### Administrative Assistant — arXiv (Feb 2022–Dec 2022)
+- Managed metadata and pre-print submissions.
 
-**Research Intern**  
-*U.S. Green Chamber of Commerce* — *Jan 2021–May 2021*  
-- Studied fast fashion's climate impact; co-designed sustainability certification course.  
+### Research Intern — U.S. Green Chamber of Commerce (Jan 2021–May 2021)
+- Studied fast fashion's climate impact.  
+- Co-designed sustainability certification course.
 
-**Advocacy Intern**  
-*Common Energy* — *Jan 2021–May 2021*  
-- Educated residents on community solar programs and managed energy usage data.
+### Advocacy Intern — Common Energy (Jan 2021–May 2021)
+- Educated residents on community solar programs.  
+- Managed energy usage data.
 
 </details>
 
@@ -81,7 +85,7 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
 
 ### Programming & Scripting
 - Python, R, Bash, Java  
-- Custom pipelines for scRNA-seq, snRNA-seq, ATAC-seq, spatial transcriptomics, and proteomics  
+- Custom pipelines for scRNA-seq, snRNA-seq, ATAC-seq, spatial transcriptomics, proteomics  
 - Reproducible workflows: Git/GitHub, conda, Makefiles  
 
 ### Bioinformatics Tools & Frameworks
@@ -101,7 +105,7 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
 
 ### Systems & HPC
 - Unix/Linux shell, SLURM HPC, array jobs, pipeline parallelization  
-- Large-scale data management, cloud workflows  
+- Large-scale data management, cloud workflows
 
 </details>
 
@@ -123,31 +127,33 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
 <details>
   <summary><strong>Teaching</strong></summary>
 
-**Teaching Assistant** — *Perspectives in Climate Change Seminar, Cornell* — *Jan 2021–May 2021*  
-- Supported course organization, graded ~50 assignments weekly, attended faculty meetings
+### Teaching Assistant — Perspectives in Climate Change Seminar, Cornell (Jan 2021–May 2021)
+- Supported course organization  
+- Graded ~50 assignments weekly  
+- Attended faculty meetings
 
 </details>
 
 <details>
   <summary><strong>Community Involvement</strong></summary>
 
-- **Volunteer**, *Clinic by the Bay* — *Jan 2024–Present*  
+- **Volunteer**, *Clinic by the Bay* (Jan 2024–Present)  
   - Food pharmacy program, grocery delivery, nutrition workshops (~100+ hrs)  
-- **Volunteer**, *Garden for the Environment* — *Jan 2025–Present*  
+
+- **Volunteer**, *Garden for the Environment* (Jan 2025–Present)  
   - Growing and harvesting produce for Haight-Ashbury Food Bank  
-- **Vice President**, Young Researchers Program — *Sept 2019–Dec 2022*  
+
+- **Vice President**, Young Researchers Program (Sept 2019–Dec 2022)  
   - Organized research training events, led communications team  
-- **Member**, OASIS: Asian & Pacific Islander LGBTQ+ — *Sept 2021–Dec 2022*
+
+- **Member**, OASIS: Asian & Pacific Islander LGBTQ+ (Sept 2021–Dec 2022)
 
 </details>
 
 <details>
   <summary><strong>Awards</strong></summary>
 
-**Howard Milstein Scholarship, Cornell University** — *Mar 2020*  
-- $5000 scholarship
-
-**Tanner Dean Scholar, Cornell University** — *Sept 2019*  
-- $1000 scholarship + up to $5000 research grant
+- **Howard Milstein Scholarship, Cornell University** — Mar 2020 ($5000)  
+- **Tanner Dean Scholar, Cornell University** — Sept 2019 ($1000 + up to $5000 research grant)
 
 </details>
