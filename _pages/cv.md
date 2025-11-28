@@ -12,8 +12,21 @@ redirect_from:
   <a href="http://16nikita.github.io/files/Nikita_Sajai_AccessibleCV.pdf" target="_blank" style="padding: 0.5em 1em; background:#2E6F3E; color:white; text-decoration:none; border-radius:5px;">CV PDF</a>
 </div>
 
+<!-- CV Navigation -->
+<div style="margin-bottom: 2em; display:flex; flex-wrap:wrap; gap:0.5em;">
+  <a href="#education" style="padding:0.5em 1em; background:#2E6F3E; color:white; text-decoration:none; border-radius:5px;">Education</a>
+  <a href="#research-experience" style="padding:0.5em 1em; background:#2E6F3E; color:white; text-decoration:none; border-radius:5px;">Research</a>
+  <a href="#computational-bioinformatics-skills" style="padding:0.5em 1em; background:#2E6F3E; color:white; text-decoration:none; border-radius:5px;">Skills</a>
+  <a href="#publications" style="padding:0.5em 1em; background:#2E6F3E; color:white; text-decoration:none; border-radius:5px;">Publications</a>
+  <a href="#presentations" style="padding:0.5em 1em; background:#2E6F3E; color:white; text-decoration:none; border-radius:5px;">Talks</a>
+  <a href="#other-professional-experience" style="padding:0.5em 1em; background:#2E6F3E; color:white; text-decoration:none; border-radius:5px;">Experience</a>
+  <a href="#teaching" style="padding:0.5em 1em; background:#2E6F3E; color:white; text-decoration:none; border-radius:5px;">Teaching</a>
+  <a href="#community-involvement" style="padding:0.5em 1em; background:#2E6F3E; color:white; text-decoration:none; border-radius:5px;">Community</a>
+  <a href="#awards" style="padding:0.5em 1em; background:#2E6F3E; color:white; text-decoration:none; border-radius:5px;">Awards</a>
+</div>
 
-<h2 style="color:#2E6F3E;">Education</h2>
+
+<h2 id="education" style="color:#2E6F3E;">Education</h2>
 ---
 
 **Cornell University**  
@@ -28,7 +41,7 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
 
 ---
 
-<h2 style="color:#2E6F3E;">Research Experience</h2>
+<h2 id="research-experience" style="color:#2E6F3E;">Research Experience</h2>
 ---
 
 **Junior Specialist**  
@@ -60,7 +73,7 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
 ---
 
 
-<h2 style="color:#2E6F3E;">Computational & Bioinformatic Skills</h2>
+<h2 id="computational-bioinformatics-skills" style="color:#2E6F3E;">Computational & Bioinformatic Skills</h2>
 ---
 
 ### **Programming & Scripting**
@@ -90,14 +103,14 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
 
 ---
 
-## Publications  
+<h2 id="publications" style="color:#2E6F3E;">Publications</h2>
 ---
 
 - *Epstein R, Sajai N*, M. Zelkowski, A. Zhou, K.R. Robbins, & W.P. Pawlowski. (2023). "Exploring impact of recombination landscapes on breeding outcomes." *Proceedings of the National Academy of Sciences* (PNAS). 120 (14) e2205785119, https://doi.org/10.1073/pnas.2205785119 (2023).
 
 ---
 
-<h2 style="color:#2E6F3E;">Presentations</h2>
+<h2 id="presentations" style="color:#2E6F3E;">Presentations</h2>
 ---
 
 - **Oral Presentation:** Overview of Liver Gene Analysis Core - UCSF Liver Center Research in Progress (RIPS), San Francisco, CA, September 2025
@@ -108,7 +121,7 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
 
 ---
 
-<h2 style="color:#2E6F3E;">Other Professional Experience</h2> 
+<h2 id="other-professional-experience" style="color:#2E6F3E;">Other Professional Experience</h2> 
 ---
 
 **Administrative Assistant**  
@@ -127,7 +140,7 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
 
 ---
 
-<h2 style="color:#2E6F3E;">Teaching</h2> 
+<h2 id="teaching"  style="color:#2E6F3E;">Teaching</h2> 
 ---
 
 **Teaching Assistant for Perspectives in Climate Change Seminar**  
@@ -136,7 +149,7 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
 
 ---
 
-<h2 style="color:#2E6F3E;">Community Involvement</h2> 
+<h2 id="community-involvement"  style="color:#2E6F3E;">Community Involvement</h2> 
 ---
 
 - **Member**, oSTEM: LGBTQ+ STEM Professional Association — *Oct 2025–Present*
@@ -157,7 +170,7 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
 
 ---
 
-<h2 style="color:#2E6F3E;">Awards</h2> 
+<h2 id="awards" style="color:#2E6F3E;">Awards</h2> 
 ---
 
 **Howard Milstein Scholarship, Cornell University**
