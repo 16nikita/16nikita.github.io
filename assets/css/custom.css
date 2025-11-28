@@ -1,10 +1,16 @@
 /* Collapsible Section Styling */
+.cv-section {
+  margin-bottom: 1.5em;
+}
+
 .cv-section summary {
-  font-size: 1.7rem;
+  display: block;
+  font-size: 1.4rem;
   font-weight: 700;
   color: #2E6F3E;
   cursor: pointer;
-  padding: 0.3em 0;
+  padding: 0.5em 0;
+  border-bottom: 1px solid #ccc;
 }
 
 .cv-section summary::-webkit-details-marker {
@@ -22,7 +28,17 @@
   transform: rotate(-180deg);
 }
 
-/* Inner content spacing */
 .cv-content {
   padding: 0.5em 1em 1em 0.5em;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+/* Optional: Download button style */
+.cv-download {
+  padding: 0.5em 1em;
+  background: #2E6F3E;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
 }

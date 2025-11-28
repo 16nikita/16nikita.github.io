@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: compress
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -17,22 +17,21 @@ kramdown:
 </div>
 
 <details class="cv-section" open>
-<summary>Education</summary>
-<div class="cv-content">
+  <summary>Education</summary>
+  <div class="cv-content">
+
+  **Cornell University**  
+  *B.A. in Biological Sciences*  
+  *Concentration in Computational Biology*  
+  *Minor in Climate Change*    
+  Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
+
+  **Honors Thesis🦋:** [*The Mutagenic Effect of Recombination*](https://16nikita.github.io/publication/2010-10-01-paper-title-number-2)
+
+  **My Favorite Courses🌟:** Listening to Indigenous Voices, Ecology & Evolutionary Biology, Perspectives on Climate Change, Environmental Justice, Ethics & The Environment, Computational Biology
 
 
-**Cornell University**  
-*B.A. in Biological Sciences*  
-*Concentration in Computational Biology*  
-*Minor in Climate Change*    
-Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
-
-**Honors Thesis🦋:** [*The Mutagenic Effect of Recombination*](https://16nikita.github.io/publication/2010-10-01-paper-title-number-2)
-
-**My Favorite Courses🌟:** Listening to Indigenous Voices, Ecology & Evolutionary Biology, Perspectives on Climate Change, Environmental Justice, Ethics & The Environment, Computational Biology
-
-
-</div>
+  </div>
 </details>
 
 <details class="cv-section" open>

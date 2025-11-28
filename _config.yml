@@ -127,6 +127,7 @@ analytics:
 include:
   - .htaccess
   - _pages
+  - assets/css
   - files
 exclude:
   - "*.sublime-project"
@@ -259,6 +260,7 @@ defaults:
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  
 
 
 # Outputting
