@@ -12,9 +12,10 @@ redirect_from:
   <a href="http://16nikita.github.io/files/Nikita_Sajai_AccessibleCV.pdf" target="_blank" style="padding: 0.5em 1em; background:#2E6F3E; color:white; text-decoration:none; border-radius:5px;">Download CV</a>
 </div>
 
+<details class="cv-section" open>
+<summary>Education</summary>
+<div class="cv-content">
 
-## Education  
----
 
 **Cornell University**  
 *B.A. in Biological Sciences*  
@@ -26,10 +27,13 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
 
 **My Favorite Courses🌟:** Listening to Indigenous Voices, Ecology & Evolutionary Biology, Perspectives on Climate Change, Environmental Justice, Ethics & The Environment, Computational Biology
 
----
 
-## Research Experience  
----
+</div>
+</details>
+
+<details class="cv-section" open>
+<summary>Research Experience</summary>
+<div class="cv-content">
 
 **Junior Specialist**  
 *Bruce Wang Lab, UCSF* — *May 2023–Present*  
@@ -57,31 +61,15 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
   - Evaluate crossover hotspot proximity to haplotype blocks in maize. Project development in R.
   - Conducted wet-lab work using immuno-FiSH and super-resolution microscopy to study crossover protein localization on inverted chromosome arms.  
 
----
 
-## Other Professional Experience  
----
+</div>
+</details>
 
-**Administrative Assistant**  
-*arXiv* — *Feb 2022–Dec 2022*  
-- Managed metadata and handled journal/manuscript pre-print submissions.
 
-**Research Intern**  
-*U.S. Green Chamber of Commerce* — *Jan 2021–May 2021*  
-- Conducted research on fast fashion's impact on climate change and published in *ALTR* magazine.  
-- Co-designed sustainability certification course, including developing teaching materials.
+<details class="cv-section" open>
+<summary>Computational & Bioinformatics Skills</summary>
+<div class="cv-content">
 
-**Advocacy Intern**  
-*Common Energy* — *Jan 2021–May 2021*  
-- Educated residents on community solar programs.  
-- Managed data on power usage, billing, and savings; built customer service and outreach skills.
-
----
-
----
-
-## Computational & Bioinformatic Skills  
----
 
 ### **Programming & Scripting**
 - Python, R, Bash, Java  
@@ -108,36 +96,75 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
 - SLURM-based HPC environments, array jobs, pipeline parallelization  
 - Large-scale data management, cloud computing workflows  
 
----
 
-## Publications  
----
+</div>
+</details>
+
+
+<details class="cv-section" open>
+<summary>Publications</summary>
+<div class="cv-content">
+
 
 - *Epstein R, Sajai N*, M. Zelkowski, A. Zhou, K.R. Robbins, & W.P. Pawlowski. (2023). "Exploring impact of recombination landscapes on breeding outcomes." *Proceedings of the National Academy of Sciences* (PNAS). 120 (14) e2205785119, https://doi.org/10.1073/pnas.2205785119 (2023).
 
----
 
-## Presentations & Talks  
----
-- **Poster Presentation**   
-  *The Mutagenic Effect of Recombination* — Maize Genetics Meeting, St. Louis, MO, May 2023  
+</div>
+</details>
 
-- **Oral Presentation (Lightning Talk)**  
-  *Designing a Healthy Human Liver Gene Panel for 10X Xenium Spatial Transcriptomics* — UCSF Liver Center Annual Symposium, San Francisco, CA, May 2024
+<details class="cv-section" open>
+<summary>Presentations & Talks</summary>
+<div class="cv-content"> 
 
----
+- **Oral Presentation:** Overview of Liver Gene Analysis Core - UCSF Liver Center Research in Progress (RIPS), San Francisco, CA, September 2025
 
-## Teaching  
----
+- **Oral Presentation (Lightning Talk):** Designing a Healthy Human Liver Gene Panel for 10X Xenium Spatial Transcriptomics - UCSF Liver Center Annual Symposium, San Francisco, CA, May 2024
+
+- **Poster Presentation:** The Mutagenic Effect of Recombination — Maize Genetics Meeting, St. Louis, MO, May 2023  
+
+-**Poster Presentation:**  The Mutagenic Effect of Recombination - Cornell Honors Thesis Research Symposium, Ithaca, NY, December 2022
+
+</div>
+</details>
+
+<details class="cv-section" open>
+<summary>Other Professional Experience</summary>
+<div class="cv-content"> 
+
+**Administrative Assistant**  
+*arXiv* — *Feb 2022–Dec 2022*  
+- Managed metadata and handled journal/manuscript pre-print submissions.
+
+**Research Intern**  
+*U.S. Green Chamber of Commerce* — *Jan 2021–May 2021*  
+- Conducted research on fast fashion's impact on climate change  
+- Co-designed sustainability certification course
+
+**Advocacy Intern**  
+*Common Energy* — *Jan 2021–May 2021*  
+- Educated residents on community solar programs.  
+- Managed data on power usage, billing, and savings; built customer service and outreach skills.
+
+</div>
+</details>
+
+<details class="cv-section" open>
+<summary>Teaching</summary>
+<div class="cv-content"> 
 
 **Teaching Assistant for Perspectives in Climate Change Seminar**  
 *Cornell Dept. of Biological & Environmental Engineering* — *Jan 2021–May 2021*  
 - Collaborated with Dr. Peter Hess to support course organization; graded ~50 assignments weekly; attended faculty meetings
 
----
 
-## Community Involvement  
----
+</div>
+</details>
+
+<details class="cv-section" open>
+<summary>Community Involvement</summary>
+<div class="cv-content"> 
+
+- **Member**, oSTEM: LGBTQ+ STEM Professional Association— *October 2025–Present*
 
 - **Volunteer**, *Clinic by the Bay* — *Jan 2024–Present*  
   - Volunteer for the food pharmacy program (~100+ hours of service)  
@@ -152,10 +179,13 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
   - Organized career aspiration events and scientific development programs (classes, lectures, and symposium)
 - **Member**, OASIS: Asian and Pacific Islander LGBTQ+ — *Sept 2021–Dec 2022*
 
----
 
-## Awards  
----
+</div>
+</details>
+
+<details class="cv-section" open>
+<summary>Awards</summary>
+<div class="cv-content"> 
 
 **Howard Milstein Scholarship, Cornell University**  
 *Awarded Mar 2020*  
@@ -165,4 +195,6 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
 *Awarded Sept 2019*  
 - Awarded $1000 scholarship and up to $5000 research grant
 
+</div>
+</details>
 

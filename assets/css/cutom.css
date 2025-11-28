@@ -1,0 +1,28 @@
+/* Collapsible Section Styling */
+.cv-section summary {
+  font-size: 1.7rem;
+  font-weight: 700;
+  color: #2E6F3E;
+  cursor: pointer;
+  padding: 0.3em 0;
+}
+
+.cv-section summary::-webkit-details-marker {
+  display: none;
+}
+
+.cv-section summary::after {
+  content: "▾";
+  float: right;
+  transition: transform 0.3s ease;
+  color: #2E6F3E;
+}
+
+.cv-section[open] summary::after {
+  transform: rotate(-180deg);
+}
+
+/* Inner content spacing */
+.cv-content {
+  padding: 0.5em 1em 1em 0.5em;
+}
