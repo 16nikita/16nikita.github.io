@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- CV Download Button -->
 <div style="text-align:left; margin-bottom: 1em;">
-  <a href="http://16nikita.github.io/files/Nikita_Sajai_AccessibleCV.pdf" target="_blank" style="padding: 0.5em 1em; background:#007ACC; color:white; text-decoration:none; border-radius:5px;">Download CV</a>
+  <a href="http://16nikita.github.io/files/Nikita_Sajai_AccessibleCV.pdf" target="_blank" style="padding: 0.5em 1em; background:#2E6F3E; color:white; text-decoration:none; border-radius:5px;">Download CV</a>
 </div>
 
 

@@ -18,7 +18,7 @@ Moving forward, I plan to integrate my interests in public health and bioinforma
 - Examining public health issues through an environmental justice framework
 - Incorporating <strong> and addressing</strong> socioeconomic context in health-centered research
 - Open-access science, journals free from paywalls
-- Community-centered work
+- Collaboration across disciplines: recruiting artists to turn publications into art or consulting with sociologists on data interpretation, general-access conferences
 - Uplifting marginalized voices in the lab and bringing more in
 - Learning from the land and non-human beings
 - Fighting for justice in and outside the lab, including a free Palestine, Congo, and Sudan; No one is free until we are all free
