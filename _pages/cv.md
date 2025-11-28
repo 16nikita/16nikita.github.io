@@ -13,7 +13,7 @@ redirect_from:
 </div>
 
 
-## Education  
+<h2 style="color:#2E6F3E;">Education</h2>
 ---
 
 **Cornell University**  
@@ -28,7 +28,7 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
 
 ---
 
-## Research Experience  
+<h2 style="color:#2E6F3E;">Research Experience</h2>
 ---
 
 **Junior Specialist**  
@@ -60,7 +60,7 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
 ---
 
 
-## Computational & Bioinformatic Skills  
+<h2 style="color:#2E6F3E;">Computational & Bioinformatic Skills</h2>
 ---
 
 ### **Programming & Scripting**
@@ -97,7 +97,7 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
 
 ---
 
-## Presentations & Talks  
+<h2 style="color:#2E6F3E;">Presentations</h2>
 ---
 
 - **Oral Presentation:** Overview of Liver Gene Analysis Core - UCSF Liver Center Research in Progress (RIPS), San Francisco, CA, September 2025
@@ -108,7 +108,7 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
 
 ---
 
-## Other Professional Experience  
+<h2 style="color:#2E6F3E;">Other Professional Experience</h2> 
 ---
 
 **Administrative Assistant**  
@@ -117,8 +117,8 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
 
 **Research Intern**  
 *U.S. Green Chamber of Commerce* — *Jan 2021–May 2021*  
-- Conducted research on fast fashion's impact on climate change and published in *ALTR* magazine.  
-- Co-designed sustainability certification course, including developing teaching materials.
+- Conducted research on fast fashion's impact on climate change.
+- Co-designed sustainability certification course.
 
 **Advocacy Intern**  
 *Common Energy* — *Jan 2021–May 2021*  
@@ -127,7 +127,7 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
 
 ---
 
-## Teaching  
+<h2 style="color:#2E6F3E;">Teaching</h2> 
 ---
 
 **Teaching Assistant for Perspectives in Climate Change Seminar**  
@@ -136,7 +136,7 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
 
 ---
 
-## Community Involvement  
+<h2 style="color:#2E6F3E;">Community Involvement</h2> 
 ---
 
 - **Member**, oSTEM: LGBTQ+ STEM Professional Association — *Oct 2025–Present*
@@ -157,7 +157,7 @@ Graduated *summa cum laude*, December 2022 — GPA: 4.054 (4.3 Scale)
 
 ---
 
-## Awards  
+<h2 style="color:#2E6F3E;">Awards</h2> 
 ---
 
 **Howard Milstein Scholarship, Cornell University**
