@@ -12,14 +12,16 @@ redirect_from:
   <a href="http://16nikita.github.io/files/Nikita_Sajai_AccessibleCV.pdf" target="_blank" style="padding: 0.5em 1em; background:#2E6F3E; color:white; text-decoration:none; border-radius:5px;">CV PDF</a>
 </div>
 
-<!-- CV Navigation Bar -->
-<div style="display:flex; flex-wrap:wrap; justify-content:space-between; background:#2E6F3E; padding:0.5em 1em; margin-bottom:2em; border-radius:5px;">
+<!-- CV Navigation Bar with Gradient -->
+<div style="display:flex; flex-wrap:wrap; justify-content:space-between; 
+            background: linear-gradient(to right, #66BB6A, #2E7D32); 
+            padding:0.5em 1em; margin-bottom:2em; border-radius:5px;">
   <a href="#education" style="color:white; text-decoration:none; font-weight:bold;">Education</a>
   <a href="#research-experience" style="color:white; text-decoration:none; font-weight:bold;">Research</a>
   <a href="#computational-bioinformatics-skills" style="color:white; text-decoration:none; font-weight:bold;">Skills</a>
   <a href="#publications" style="color:white; text-decoration:none; font-weight:bold;">Publications</a>
   <a href="#presentations" style="color:white; text-decoration:none; font-weight:bold;">Talks</a>
-  <a href="#other-professional-experience" style="color:white; text-decoration:none; font-weight:bold;">Other Experience</a>
+  <a href="#other-professional-experience" style="color:white; text-decoration:none; font-weight:bold;">Experience</a>
   <a href="#teaching" style="color:white; text-decoration:none; font-weight:bold;">Teaching</a>
   <a href="#community-involvement" style="color:white; text-decoration:none; font-weight:bold;">Community</a>
   <a href="#awards" style="color:white; text-decoration:none; font-weight:bold;">Awards</a>
