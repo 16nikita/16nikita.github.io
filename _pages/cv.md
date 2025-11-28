@@ -5,7 +5,11 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+markdown: kramdown
+kramdown:
+  parse_block_html: true
 ---
+
 
 <!-- CV Download Button -->
 <div style="text-align:left; margin-bottom: 1em;">
