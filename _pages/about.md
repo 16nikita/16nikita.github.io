@@ -6,13 +6,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a data scientist in the Bruce Wang Lab at the University of California, San Francisco (UCSF). Here, I specialize in single-cell RNA-seq and spatial transcriptomics pipeline development and deployment, with the aim of understanding heterogeneity and disease progression in human and mice livers. I also serve as a bioinformatics consultant and collaborator for all labs within the UCSF Liver Center community.
+I am a naturally inquisitive person, still the kid always following up with *why? why? why?* Research feels like second nature. Currently, I work as data scientist in the Bruce Wang Lab at the University of California, San Francisco (UCSF). Here, I specialize in single-cell RNA-seq and spatial transcriptomics pipeline development and deployment, with the aim of understanding heterogeneity and disease progression in human and mice livers. Simultaneously, I serve as a bioinformatics consultant and collaborator for all labs within the UCSF Liver Center community.
 
-Though my research in the past two and half years has been in human health, I have amassed a wealth of transferrable skills. Living in the beautiful, one-of-a-kind Bay Area has deepened my lifelong fascination with the natural world. I believe the mistreatment of Earth is a root cause for many public health challenges; you cannot address public health without addressing the wellbeing of our planet.
+Before moving to San Francisco, I attended and graduated *summa cum laude* from Cornell University in December 2022 with a B.A. in Biological Sciences, concentrating in Computational Biology and minoring in Climate Change. At Cornell, I fell in love with research upon first sight. I worked in the Pawlowski Lab on a series of collaborative projects using computational approaches to illuminate the factors controlling meiotic recombination in maize and rice. These efforts were directed toward uncovering recombination hotspots to help crops better harness genetic diversity in the face of growing climate pressures.
 
-I graduated *summa cum laude* from Cornell University in December 2022 with a B.A. in Biological Sciences, concentrating in Computational Biology and minoring in Climate Change. At Cornell, I worked in the Pawlowski Lab on a series of collaborative projects using computational approaches to illuminate the factors controlling meiotic recombination in maize and rice. These efforts were directed toward uncovering recombination hotspots to help crops better harness genetic diversity in the face of growing climate pressures.
+Because of my experiences, I have amassed a wealth of computational skills, and more importantly, seen the consequences of social and environmental stressors on both human and non-human beings. I believe the mistreatment of Earth is a root cause of many public health crises; <strong style="color:#2E6F3E;">we cannot heal our bodies without healing our planet</strong>.
 
-Moving forward, I plan to integrate my interests in climate change, public health, and bioinformatics to fight for environmental justice. My next steps include earning a PhD in Computational Biology in efforts to follow this dream. Thank you for taking the time to visit my website.
+Moving forward, I plan to integrate my interests in public health and bioinformatics to fight for environmental justice. My next steps include earning a PhD in Computational Biology in efforts to follow this dream. Thank you for taking the time to visit my website.
+
+<h2 style="color:#2E6F3E;">What do I value?</h2>
+- Examining public health issues through an environmental justice framework
+- Incorporating <strong> and addressing</strong> socioeconomic context in health-centered research
+- Open-access science, journals free from paywalls
+- Community-centered work
+- Uplifting marginalized voices in the lab and bringing more in
+- Learning from the land and non-human beings
+- Fighting for justice in and outside the lab, including a free Palestine, Congo, and Sudan; No one is free until we are all free
 
 <h2 style="color:#2E6F3E;">What fascinates me?💫</h2>
 
