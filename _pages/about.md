@@ -36,7 +36,7 @@ Thanks for taking the time to visit my website!
 
 🌱 **Adaptability & Initiative:** Thrive in fast-paced, evolving research environments. Eager to learn new techniques and apply creative solutions to scientific challenges.
 
-<h2 style="color:#2E6F3E;">What am I good at?🌟</h2>
+<h2 style="color:#2E6F3E;">What am I good at?</h2>
 
 **Programming & Pipelines:** Python, R, Bash, and Java; building reproducible workflows for large-scale genomic and multi-omic datasets.
 
