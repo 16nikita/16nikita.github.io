@@ -6,21 +6,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a naturally inquisitive person, with a childlike instinct to always follow up with *why?* Research feels like second nature. Currently, I work as data scientist in the Bruce Wang Lab at the University of California, San Francisco (UCSF). Here, I specialize in molecular genetics techniques, specifically in single-cell RNA-seq, spatial transcriptomics, and multi-omics pipeline development and deployment. Our lab aims to understand how cellular differences contribute to heterogeneity in function and in disease responses in human and mice livers. We also work towards defining a physiological baseline for mouse livers, which hopefully translates to human livers, too. Simultaneously, I serve as a bioinformatics collaborator for all labs within the UCSF Liver Center community.
+I am a naturally inquisitive person, with a childlike instinct to always follow up with *why?* Research has always felt like second nature to me, though my official journey in academia began when I was 20 years old. I attended Cornell University, I fell in love with plants & research upon first sight. I worked in the Pawlowski Lab on a series of projects using computational approaches to illuminate the factors controlling meiotic recombination in maize and rice. These efforts were directed toward uncovering the mechanisms governing recombination to help crops better harness genetic diversity in the face of growing climate pressures. I graduated *summa cum laude* from Cornell University in December 2022 with a B.A. in Biological Sciences, concentrating in Computational Biology and minoring in Climate Change, and then I moved to San Francisco to keep growing and evolving as a computational scientist.
 
-Before moving to San Francisco, I attended and graduated *summa cum laude* from Cornell University in December 2022 with a B.A. in Biological Sciences, concentrating in Computational Biology and minoring in Climate Change. At Cornell, I fell in love with research upon first sight. I worked in the Pawlowski Lab on a series of projects using computational approaches to illuminate the factors controlling meiotic recombination in maize and rice. These efforts were directed toward uncovering the mechanisms controlling recombination and the effects to help crops better harness genetic diversity in the face of growing climate pressures.
+Currently, I work as a data scientist in the [Wang Lab](https://brucewanglab.ucsf.edu/) at the University of California, San Francisco (UCSF). Here, I specialize in molecular genetics techniques, specifically in single-cell RNA-seq, spatial transcriptomics, and multi-omics pipeline development and deployment. Our lab aims to understand how cellular differences contribute to heterogeneity in function and in disease responses in human and mice livers. We also work towards defining a physiological baseline for mouse livers, which hopefully translates to human livers, too. Simultaneously, I serve as a bioinformatics collaborator for all labs within the UCSF Liver Center community.
 
 Through these experiences, I have amassed a wealth of computational skills, and more importantly, seen the consequences of social and environmental stressors on both human and non-human beings. I believe the mistreatment of Earth is a root cause of many public health crises; <strong style="color:#2E6F3E;">we cannot heal our bodies without healing our planet</strong>.
 
-Moving forward, I plan to integrate my interests in plant genomics and bioinformatics to fight for environmental justice. My next steps include earning a PhD in Plant Biology in efforts to follow this dream. Thank you for taking the time to visit my website.
+Moving forward, I plan to integrate my interests in plant genomics and bioinformatics to fight for environmental justice. My future career goals include earning a PhD in Plant Biology in efforts to follow this dream and eventually becoming a resident scientist at a plant research center somewhere. 
+
+Thanks for taking the time to visit my website!
 
 <h2 style="color:#2E6F3E;">What do I value?</h2>
-- Examining public health issues through an environmental justice framework
-- Incorporating <strong> and addressing</strong> socioeconomic context in health-centered research
-- Open-access science, journals free from paywalls
-- Collaboration across disciplines: recruiting artists to turn publications into art or consulting with sociologists on data interpretation, general-access conferences
-- Uplifting marginalized voices in the lab and bringing more in
+- Examining plant science issues through an environmental justice framework and queering science
 - Learning from the land and non-human beings
+- Open-access science, journals free from paywalls
+- Interdisciplinary Collaboration: recruiting artists to turn publications into art or consulting with sociologists on data interpretation, general-access conferences
+- Uplifting marginalized voices in the lab and bringing more in
 - Fighting for justice in and outside the lab, including a free Palestine, Congo, and Sudan; <strong>No one is free until we are all free</strong>
 
 <h2 style="color:#2E6F3E;">What fascinates me?💫</h2>
