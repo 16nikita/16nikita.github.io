@@ -24,7 +24,7 @@ Thanks for taking the time to visit my website!
 - Advancing research that supports and uplifts BIPOC and LGBTQ+ communities disproportionately affected by environmental inequities  
 - Promoting open science and inclusive research environments  
 
-<h2 style="color:#2E6F3E;">How do I operate in a research setting?✨</h2>
+<h2 style="color:#2E6F3E;">How do I operate in a research setting?</h2>
 
 🌱 **Collaborative Researcher:** I am experienced in working across interdisciplinary teams and labs, including as a core collaborator within the UCSF Liver Center. Comfortable coordinating with biologists, clinicians, and computational scientists.
 
